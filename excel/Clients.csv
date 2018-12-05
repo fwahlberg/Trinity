@@ -1,0 +1,743 @@
+ClientID,Name,Addr1,Addr2,Addr3,Addr4,Town,County,Postcode,Tel 1,Tel2,Tel3,Mobile,email,AccountCode,Owned Space
+2,The Buswell Partnership,Lower Farm,,,,Denton,Oxford,OX44 9JL,01865 873505,07885 739250 Roger Buswell,01865 875571,,roger@buswellparks.co.uk,32686,200
+3,Manor Farm Partnership(Crookham),c/o T Johnson,The Farm Office,Manor Farm,Crookham ,Thatcham,Berkshire,RG19 8ED,0118 9713862,,,,,33857,350
+4,VS Bland & Sons,The Warren,Aldbourne,Marlborough,,,Wiltshire,SN8 2LE,01672 540050,7721551887,,,hugh.bland@btconnect.com,25863,"1,650.00"
+5,J H Bowden & Partners,Manor Farm,Brimpton,,,Reading,Berkshire,RG7 4SQ,01189 713166,07770 416544 Michael Bowden,01189 713727,,michael.bowden@btconnect.com,15718,500
+6,T & C Bucknell,Manor farm,Haddenham,,,Aylesbury,Buckinghamshire,HP17 8AH,01844 291302 Tom Bucknell,,,,,33945,300
+7,W Bush & Co,Ebbdown Farm,North Wraxall,,,Chippenham,Wiltshire,SN14 0QZ,01225 891293,07976 838572 Nick Bush,01225 891293,,nicholasbush@sky.com,33952,250
+8,Earls Court Farms Ltd,Rooksnest Estate Office,Strouds Farm,Ermin Street,Lambourn Woodlands,Hungerford,Berkshire,RG177SB,01488 71869,7500229285,01488 71869,,farm@rooksnest.net ,32641,"1,610.00"
+9,J R Horton & Son,The Firs,Beckhamton,,,Marlborough,Wiltshire,SN81QP,01672 539503,07774 844147,,,stephenhorton89@gmail.com,20122,"1,620.00"
+10,Home Farm (Minal) Ltd,The Farmhouse,Rabley Barn,Mildenhall,,Marlborough,Wiltshire,SN8 2LW,01672 512994 ,07831 498283,,,andrew.ainslie53@btinternet.com,32896,650
+11,Hurley Ford Farms Ltd,The Farm Office,Hurley,,,Nr Maidenhead,Berkshire,SL8 5NG,01628 823501,07778 770672,,,farmoffice@hurleyfordfarm.co.uk,32030,250
+12,FARMCARE LTD ,c/o Littlecote Farmcare,"Unit 9,  Lowesdon Works",Lambourn Woodlnds,,Hungerford,Berkshire,RG17 7TY,01488 670052,07836 254874,01488 670053,,jonathan.holland@letsco-operate.com ,L219,
+13,R.A.U. Farms,Stroud Road,Cirencester,Gloucestershire,,GL76 JC,,,01285 652531,1285652531,,7802567338,hazel.wheeldon@rau.ac.uk ,34382,135
+14,K Stokes,Coate Lodge Farm,Coate,,,Devizes,Wiltshire,SN10 3LQ,01380 860251,7809572006,01380 860251,,chrisstokes53@gmail.com,34464,400
+15,C R Strainge,Peashell Farm,Curbridge,,,Witney,Oxfordshire,OX29 7NZ,01993 702777,07774 235616,01993 703680,,chris.strainge@btinternet.com,1177,"1,250.00"
+16,United Oilseeds Marketing Ltd,St James House,Gains Lane,,,Devizes,Wiltshire,SN101FB,01380 729200,07971 282346,01380 729186,,accounts@unitedoilseeds.co.uk,U690,"7,250.00"
+17,York King Ltd,Lower Baynton Farm,Edington,,,Westbury,Wiltshire,BA13 4NS,01380 830327,07979 904885,01380 830757,,york.kingltd@btconnect.com,34577,600
+18,Agribulk Ltd,Mills Road,Chilton Industrial Estate,Sudbury,,,Suffolk,CO10 2XX,01787 375533,,01787 374004,,,,
+19,Amalgamated Bulk Haulage,,,,,,,,,,,,,,
+20,Bacton Transport,,,,,,,,,,,,,,
+21,C J Bale & Sons Ltd,Church Farm,Collingbourne Ducis,,,Marlborough,Wiltshire,SN8 3EQ,01264 850278,,01264 850182,,,,
+22,Bartrums,Langton Green,,,,Eye,Suffolk,IP237HN,1379870693,,,,craig@bartums.com ,,
+23,Mid Hants Ltd,New Farm,Pickaxe Lane,South Warnborough,,Hook,HAmpshire,RG291SH,1256861016,,,,info@midhants.com ,,
+24,Burgess Transport Ltd,,,,,,,,,,,,,,
+25,J.T. Carpenter&Sons Ltd,,,,Crudwell,Malmesbury,Wiltshire,SN169ES,1666577341,,,,traffic@jtcarpenter.co.uk ,,
+26,Churchill Freight Services Ltd,Portfield,,,,Chichester,West Sussex,PO197TT,1243775061,,,,,,
+27,Falkland Haulage (uk) Ltd,15 St Mary's Road,,,,Newbury,Berkshire,RG141ES,163540093,,,7836660066,,,
+28,Fermac,,,,,,,,,,,,,,
+29,G K Friend,3 The Conifers,Coldred,CT15 5AR,,,,,1304830827,,,,,FRIEND,0
+30,J Godfrey & Sons,,,,,,,,,,,,,,
+31,A E Gough & Sons,The Transport Depot,Ddole Road Industrial Estate,,,Llandrindod Wells,Powya,LD16DF,1597822052,,,,,,
+32,CG  & D Heal Ltd,,,,,,,,,,,,,,
+33,Heltor Ltd,,,,,,,,,,,,,,
+34,Humphrey Farms Ltd,Hazeley Road,Twyford,,,Winchester,Hampshire,SO21 1QA,01264 889742,01962 764530,01264 889708,,,,
+35,R J Hussey & Son,,,,,,,,7966244396,,,,,,
+36,Isle of Wight Grain Storage,Medina Wharf,Artic Road,,,Cowes,Isle of Wight,PO31 7PG,01983 282022,07885 210485,01983 291587,,,IOW,
+37,Jennings Transport,,,,,,,,,,,,,,
+38,JJ&S Transport Ltd,Clarke Avenue,Porte Marsh Industrial estate,,,Calne ,Wiltshire,SN11 9BS,01249 821188,,,,paul@jjandstransport.co.uk,JJ&S,0
+39,MCL transport,,,,,,,,,,,,,,
+40,Mid Hant Bulk Haulge Ltd,,,,,,,,,,,,,,
+41,Millmove,Billings Barn,Driffield Road,,,Lydney,Forest of Dean,GL154EU,,1594844716,,7774128029,millmoveuk@yahoo.co.uk ,,
+42,D F Ranger & Sons,Beacons Farm,Micheldever Station,,,Winchester ,HAmpshire,SO213BD,,,,,,,
+43,P D Rees & Sons Ltd,,,,,,,,,,,,,,
+44,Rode Haulage Ltd,Church Farm,Parkgate Lane,Rode,,Frome ,Somerset,BA11 6AA,01373 830027,,01373 830018,,info@rodehaulage.co.uk,RODE,
+45,C A Stevens & Sons Ltd,,,,,,,,,,,,,,
+46,A G Watts Transport Ltd,,,,,,,,,,,,,,
+47,Tannington Transport,Tannington,,,,Woodbridge,Suffolk,IP13 7LZ,01728 628223,,01728 628774,,,,
+48,Whitewater Transport,,,,,,,,,,,,,,
+49,Lower Henwick Farm,1 Elm Farm Cottages,Hamstead Marshall,,,Newbury,Berkshire,RG20 0HR,,,,7747792549,nickwallis@wallbourne.co.uk,34262,500
+50,Openfield Marketing Ltd,Barrow Hill Barn,Barrow Hill,Goodworth Clatford,,Andover,Hampshire,SP11 7RG,01264 356666,,01264 350200,,steve.palmer@openfield.co.uk,C699,0
+51,A A Holland-Ashridge,c/o Waterside Farm,Chamberhouse Mill Lane,Thatcham,,Newbury,Berkshire,Rg19 4NG,01635 874137 ,07836 254874 ,,,jchfarming@gmail.com,L220,0
+52,Banks,,,,,,,,,,,,,,
+53,J Richens,,,,,,,,,,,,,,
+54,A Sarikhana t/a Huttons Farm,c/o simmons & sons,32 Bell Street,,,Henley-on-Thames,,RG9 2BH,01491 571111,01865 390893,7720051708,,jcoles@simmonsandsons.com,34418,800
+55,Gearge Varney,,,,,,,,,,,,,,
+56,Heygate,,,,,,,,,,,,,,
+57,All About Bulk Ltd,,,,,,,,1684278024,,,,,,
+58,Dales,,,,,,,,,,,,,,
+59,Pollington Transport,,,,,,,,01405 860464,,,,,,
+60,Ferndales,,,,,,,,,,,,,,
+61,R Pearce / Stoke Farms Ltd(034636),Moat Farm,Marsh Lane,Stoke Mandeville,,Aylesbury,Bucks,HP22 5UZ,1296612448,01296 623783,7850975430,129662521,antony@stokefarm.co.uk,P246,0
+62,Bayford Haulage Ltd,The Garage,North Brewham,,,Bruton,Somerset,BA100JL,1749850414,,,7836238713,,,
+63,R P Pearce(033708),Malt House Farm,Butlers Cross,,,Aylesbury,Bucks,HP17 0TR,1296612448,01296 623783,7850975430,129662521,antony@stokefarm.co.uk,P247,0
+64,T W Gore (FMS) Ltd,Radley Farm,,,,Hungerford,Berkshire,RG17 0NY,01488 682151,07973 318173,,,t.gore@btconnect.com,23157,850
+65,Bowlby Equine,Gurnsmead Farm,Kingston Lisle,,,Faringdon,Oxon,OX12 9QT,01367 820888,01367 820880,,,michael@bowlby.co.uk ,BOWLBY,0
+66,Dept of Trading Standards,West Berkshire Council,Market Street,,,Newbury,Berkshire,RG14 5LD,01635 519930,,01635 519172,,briony.smith@westberks.gov.uk ,DOTS,0
+67,Devon Foods Ltd,Knightswood Farm,,,,Cullompton,Devon,EX15 1RW,01884 266535,,,,,DEVON,
+68,Exmoor Hay & Straw Ltd,Great Cockerham,,,,South Molton,Devon,EX36 3EH,01398 341626,,01398 341262,,,EXMOOR,0
+69,Fermac Traffic Services,Thrapston House,Huntingdon Road,Thrapston,,Kettering,Northamptonshire,NN14 4NF,01832 734481,,01832 734838,,,FERMAC,
+70,Group Lewis Industries,Mark Amber,Upper Basildon,Nr Pangbourne,,Reading,Berkshire,RG8 8SE,07831 345485,,,,,GLI,
+71,J Pearce,East Soley Farm,Chilton Foliat,,,Hungerford,Berkshire,RG17 0TX,01488 682271,,7500029560,eastsoleyfar,,PEARCE,0
+72,Membury Store,The Grain Store,Lambourn Woodlands,,,Hungerford,Berkshire,RG177TJ,148872217,,,,admin@ridgewaygrain.co.uk,,0
+73,Rutpen Ltd,Building 45,Membury,Lambourn Woodlands,,Hungerord,Berkshire,RG16 7TJ,01488 71926,,01488 71947,,sharon@rutpen.co.uk,RUTPEN,0
+74,Shrublands Farm,Shearstock,,,,Shaftesbury,Dorset,SP7 9PT,01747 825136,,01747 826302,,,SHRUB,
+75,W H Graham ((Forage) Ltd,124 Kingsway,Blackwater,,,Camberely,Surrey,GU170JD,1276505793,,,7810426044,ron.wsmith@hotmail.com,GRAHAM,0
+76,Smiths of Axford,Coal and Wood Merchants,Smiths Yard,Axford,,Marlborough,Wiltshire,,,,,,,SMITHS,
+77,T R Doidge (Forage Merchant),c/o G D Platt,Quarry Cresent,Pennygilliam Ind Estate,,Launceston,Cornwall,PL15 7ED,01566 774431,,,,,DOIDGE,0
+78,Thames Valley Police,Southern Traffic Area,Bath Road,,,Taplow,Bucks,,01865 846000,,01635 264651,,apmodule@thamesvalley.pnn.police.uk,TVP,0
+79,Weighbridge Cash Sale,,,,,,,,,,,,,WCASH,0
+80,Wiltshire Constabulary,"Finance Dept, Wilts Constabulary",Police Headquarters,London Road,,Devizes,Wiltshire,SN10 2DN,01380 722341,,01380 734135,,accountspayable@wiltshire.pnn.police.uk ,WILTS,0
+81,A R More,PArk Farm,Webbs Lane,Beenham,,Reading ,Berkshire,Rg7 5LH,01189 744331,07778 934287,01189 745124,,armore38@gmail.com,9659,130
+82,Arena Seating,Arena House,Membury,Lambourn Woodlands,,Hungerford,Berkshire,RG17 7TQ,,,,,jgodwin@arenaseating.com,ARENA,0
+83,M. Way & Son,Pathfield Business Park,,,,South Moulton,Devon,EX363LH,,,,,,,
+84,P A James Transport,,,,,,,,,,,,,,
+85,Stennetts Transport,,,,,,,,,,,,,,
+86,G  Denton,Woodspeen Farm,Stockcross,Newbury,,Berkshire,RG20 8LA,,07774 737008,,,,,DENTON,0
+87,Dennis Ford,Home Farm,Hinton Parva,Swindon,,Wilts,SN4 0DH,,,,,,,DFORD,0
+88,Adams Transport,,,,,,,,,,,,,,
+89,Wait Transport,,,,,,,,,,,,,,
+90,Glencore Grain  UK Ltd,Warren House,Bell Lane,Thame,,Oxon,OX9 3AL,,01844 261261,,01844 216301,,,,
+91,LTC  Distribution Services,,,,,,,,,,,,,,
+92,H&N Bounds Transport Ltd,Bounds Transport Yard,Tideham Chase,,,Chepstow,Monmouthshire,NP167JW,1291689201,,,,,,
+93,Alford Traffic Services,,,,,,,,,,,,,,
+94,J D Bracey,,,,,,,,,,,,,,
+95,Burton Hill Transport,,,,,,,,,,,,,,
+96,M&N Transport,,,,,,,,1373865673,,,,mike@mntransport.co.uk,,
+97,J.K. TRANSPORT,,,,,,,,,,,,,,
+98,BOCM PAULS LTD,,,,,,,,,,,,,,
+99,De Pass Farms,Manor Farm,Easton Royal,,,Pewsey,Wiltshire,SN9 5LZ,01672 810119 ,07889 729746 Mark Depass,,7884142252,mark.depass@btconnect.com,26287,165
+100,The Eastridge Estate,c/o Perdix Partnership,Rectory Farm,Lower Swell,,,Gloucestershire,GL54 1LH,1608737057,7702408405,,,james.taylor@farmcareltd.co.uk ,34042,"2,568.00"
+101,FARMERS OWN,,,,,,,,,,,,,,
+102,Clive Price Transport,,,,,,,,,,,,,,
+103,S.M TRUCKING INTERNATIONAL,Hayseed Hollow,Hamstead Marshall,,,Newbury,Berkshire,RG200HR,,,,7785342204,smtruckingltd@yahoo.co.uk,,
+104,Banks Cargill,,,,,,,,,,,,,,
+105,H J Cole,,,,,,,,,,,,,,
+106,Bulmans Bulk Haulage Ltd,Haweswater Road,Penrith Ind Estate,,,Penrith,Cumbria,CA11 9EU,1768867008,,1768890367,,,,
+107,J C Dean (Haulage Ltd) Ltd,,,,,,,,01722 321767,,01722 342077,,,,
+108,ABNA LTD,,,,,,,,,,,,,,
+109,T Barry Haulage Ltd,Broadway Lane,South Cerney,,,Cirencester,Gloucestershire,GL7 5UH,1285860665,,,,info@barryhaulage.co.uk,,
+110,Rod Close Haulage,,,,,,,,,,,,,,
+111,Mansel Davies&Son Ltd,,,,,,,,,,,,,,
+112,Velcourt,Velcourt Marketing Services Ltd,Barrow Hill Barn,Goodworth Clatford,Andover,,Hants,Sp11 7RG,,,,,annie.noyce@openfield.co.uk,VMS,0
+113,Bartholomews Agri Foods,Portfield,Chichester,,,,West Sussex,PO17 7TJ,,,,,,BARTS,
+114,J Whithead,,,,,,,,,,,,,,
+115,Martin Collins Enterprises,Cuckoo Copse,Lambourn Woodlands,,,Hungerford,Berkshire,RG177TJ,01488 71100,,,,accounts@mceltd.com,MCE,0
+116,H Curtis&Sons,Stanton Wick,Pensford,Bristol,,BS39 4DB,,,1761490372,,,,,,
+117,Steve Benson Farming Ltd,Unit 55,Shrivenham Hundred Business Park,Majors Road,,Watchfield,Swindon,SN6 8TY,,01793 784300,7775793371,,info@sbfarming.co.uk,SBF,
+118,Brian Rayner Transport,Manor Way,Marston Trading Estate,Frome,,Somerset,,BA 4RN,01373 466731,,,,,,
+119,W G Bulk Logistics,Unit 1,Roundway Hill Busuness Centre,Hopton Park Industrial Estate,,Devizes,Wiltshire,SN10 2LT,01380 732600,,01380 736461,,,,
+120,Frontier,,,,,,,,,,,,,,0
+121,R Herbert,Cwarre Cochion,Llanddarog,Carmarthen,,SA32 8PB,,,1267275204,7967830843,,,,,
+122,Belbin Haulage,147 Radstock Road,Woolston,,,Southampton,Hampshire,SO19 2HW,7860341186,,,,,,
+123,Emerald Freight,Briard Cottage,North Barrow,Yeovil,,Somerset,BA22 7LZ,,01963 240418,,,,,,
+124,Nene Valley Transport Services,Flecknoe Fields Farm,Flecknoe,,,Rugby,Warwickshire,CV238AZ,1788890555,,,,,,
+125,A E GEORGE HAULAGE LTD,BREWHAM ROAD DEPOT,BRUTON,SOMERSET,,BA10 0JH,,,01749 812666,01749 812810,,,billy@aegeorge.co.uk ,GEORGE,0
+126,Phillip Judge Ltd,Mount Pleasant Farm,Oddington Road,Stow on the Wold,,,Gloucestershire,GL54 1JJ,1865366980,,,,philip_judge@hotmail.com,JUDGE,0
+127,J P Parkinson Transport,45 Bourne Road,Langtoft,Peterborough,,PE6 9NJ,,,01778 341583,,,,,,
+128,G W E Candy,,,,,,,,,,,,,,
+129,Crisp Malting Group,Great Ryburgh,,,,Fakenham,Norfolk,NR21 7AS,01328 829 391,,,,annemarie.betts@crispmalt.com,CRISP,0
+130,Robin Appel Ltd,Church Court,Clewers Hill,Waltham Chase,,,Hampshire ,SO32 2LN,01489 896388,,01489 896602,joe.lister,forwarding@robin-appel.com,APPEL,0
+131,Western Arable Services Ltd,The Grain Store,Cursey LAne,Elmstoke Hardwicke,Cheltenham,Glos,GL519TF,,01242 680414,01242 680206,,,mail@westernarable.co.uk,WAS,0
+132,Robinsons of Wocester,,,,,,,,,,,,,,
+133,F D Attwood&Partners,Thrognall Farm,Bull Lane,Newington,,Sittingbourne,Kent,ME97SJ,1795886395,,,7973601963,,,
+134,D J Christmas,,,,,,,,,,,,,,
+135,J H Rose,,,,,,,,,,,,,,
+136,Weald Granary,,,,,,,,,,,,,,
+137,CMA Haulage Ltd,18 Park Close,Bushey,,,,Hertfordshire,WD23 2DE,1923247942,7889125108,1723499705,,,,
+138,Wroxham Home Farms,Estate Office,Home Farm,Wroxham,,Norwich,,NR12 8SY,01603 783133,,,,,,
+139,Drew Transport,13 Shore Place,Trowbridge,Wiltshire,,BA14 9TB,,,7976694865,,,,shaun@drewtransport.co.uk,,
+140,Hopcrofts Transport,,,,,Oakley,Bucks,HP18 9Rd,01844 238240,,,07703 233093,james@hopcroftstransport.co.uk,,
+141,VOSA ,BOTLEY GVTS,HILLSON ROAD,CURDRIDGE,,BOTLEY,SOUTHAMPTON,SO30 5DY,,,,,area12mail@vosa.gov.uk ,VOSA,0
+142,Lower Hewick Farm(Chamberhouse),1 Elm Farm Cottages,Hamstead Marshall,Newbury,,Berkshire,,RG20 0HR,,,,,nickwallis@wallbourne.co.uk,33966,0
+143,A R Gane&Sons,Whotelake FArm,Steanbow,West Pennard,,Glastonbury,Somerset,Ba6 8NB,01749 890233,,01749 890595,,gane.haulage@mbzonline.net,,
+144,Seven Lands Farm,c/o Moat Farm,Marsh Lane,Stoke Mandeville,,Aylesbury,Bucks,HP170TR,1296612448,7850975430,,7817536726,antony@stokefarms.co.uk ,39734,150
+145,H N Coombs,Combe Bisset,Salisbury,,,,,,01722 718357,,,,,,
+146,Criddle Haulage,,,,,,,,,,,,,,
+147,AJF Transport,,,,,,,,,,,,,,
+148,Valley Transport Solutions,Twyford,Banbury,,,,Oxon,OX17 3AA,01295 811441,,01295 811872,,,,
+149,D & K Transport,97 Jellico Avenue,,,,Gosport,HAmpshire,PO12 2PB,2392582765,7977989090,2392503028,,,,
+150,Walters Transport,5 Bryn Road,Pontlliw,Swansea,,Sa4 9ED,,,01792 899272,,01792 897256,,info@walterstransport.co.uk,,
+151,Bulk Solutions,21 Park Road,Melksham,,,,Wiltshire,SN126WG,1225709983,,,,richard@bulksolurions.co.uk,,
+152,T H White Installations,William Road,,,,Devizes,Wiltshire,SN10 3Ew,,,,,,WHITED,0
+153,Openfield Agriculture Ltd(Membury),Honey Pot Lane,Colsterworth,Grantham,,,Lincolnshire,NG33 5LY,01476 862730,01476 862796,info@openfield.,,stocks@openfield.co.uk,23123,"7,900.00"
+154,R ADAMS&SON,,,,,,,,,,,,,,
+155,D V H Price&Son,Perdiswell Farm,Woodstock,,,Oxford,,OX20 1QJ,01993 811009,07970 020403,,,,PRI001,0
+156,D Haines Ltd,,,,,,,,,,,,,,
+157,Geddes & Son Transport Ltd,,,,,,,,,,,,,,
+158,C&L Bulk,,,,,,,,,,,,,,
+159,L.D. Griffiths Ltd,Cockoo Lane,Hadlow,,,Tonebridge,Kent,TN11 0AG,01732 850858,,01732 851004,07768 816787,griffithshaulagestorage@btconnect.com,,
+160,A W Jenkinson,,,,,,,,,,,,,,
+161,Allen Green Transport,,,,,,,,,7971110626,,,,,
+162,Openfield (CMG),Openfield Agriculture Ltd,Barrow Hill Barn,Goodworth Clatford,,Andover,HAnts,SP11 7RG,,01264 321578,,,sophie.meadows@openfield.co.uk,CMG,0
+163,Heads Farm Partners,Heads Farm,Botmoor Way,Chaddleworth,Berkshire,RG20 7EU,,,01488 639786,07753 929275,,,carie@heads-farm.com,35403,"1,300.00"
+164,Berkshire palets Ltd,,,,,,,,,,,,,,
+165,KGB,St John Road,Tilney,St Lawrence,,Kings Lynn,,Norfolk,,01945 880552,,,,,
+166,D Collins Haulage,Dodford Wharf Farm,Weedon,,,,,Northants,,01327 340663,07831 430235,,,,
+167,Witham Plant Hire,Honeylands Farm,Little Tey,Marks tey,,Colchester,,Essex,,,,,,,
+168,Lloyds Animal feeds,,,,,,,,,,,,,,
+169,J R Hood,,,,,,,,,,,,,,
+170,Bryan J Nunn,,,,,,,,,,,,,,
+171,B G Transport,,,,,,,,,,,,,,
+172,Terry Seaman Transport,,MILL HOUSE ,REDISHAM,,Near BECCLES,SUFFOLK ,NR34 8,LX,,,,1502575282,,
+173,Abrams Bulk Haulage,,,,,,,,,,,,,,
+174,MK Transport,,,,,,,,,,,,,,
+175,P Bradley&Sons,,,,,,,,,,,,,,
+176,Chris Lodge Ltd,,,,,,,,,,,,,,
+177,Spandlers,,,,,,,,,,,,,,
+178,Lakeland Services Ltd,,,,,,,,,,,,,,
+179,Simpsons Malt Ltd,,,,,,,,,,,,,,
+180,E F Wootton&Son,,,,,,,,,,,,,,
+181,Mr Charles Parry/Templars,Templers Farm,Shefford Woodlands,,,Hungerford,Berkshire,,,,,,,PARRY,0
+182,I K Bates Haulage,,,,,,,,,,,7710232476,i256bates@btinternet.com,,0
+183,M.D.F.S.,Castell Pigyn,Llanboidy,Whitland,Carmarthen,SA340LJ,,,1994448391,,,,castellpigyn@aol.com ,MDFS,0
+184,F&S Gibbs Transport,40 Boreham Road,,,,Warminster,Wiltshire,BA12 9JR,1985213084,,,,,,
+185,Hancock Bros,,,,,,,,,,,,,,
+186,Dave Pollard Transport,,,,,,,,,,,,,,
+187,Chilton Waste,,,,,,,,,,,,,,
+188,Mrs CM Graham,c/o DJ Brown,Trumpletts Farm,Hampstead Norreys,,Newbury,Berkshire,,,,,7770481982,farmerbrownuk@yahoo.com ,G158,0
+189,Peter Rowland Transport,29 The Causeway,Toppesfield,Halstead,,Essex,,CO9 4DZ,1787237816,,,786082309,,,
+190,P W Humphrey,,,,,,,,,,,,,,
+191,G T Goodings,,,,,,,,,,,,,,
+192,Roger Warnes Transport Ltd,Great Dunham Hall,Great Dunham,,,Kings Lynn,Norfolk,PE322LQ,1328701317,,,,enquiries@rogerwarnestransport.co.uk,,
+193,Openfield,Honey Pot Lane,Colsterworth,,,Grantham,Lincolnshire,NG335LY,1476862730,,,,keith.hughes@openfield.co.uk,,
+194,Craven Transport Ltd,Poplars Farm,Main Road,Stickford,Boston,Lincs,,PE22 8EL,01205 480900,01205 480149,,,,,
+195,Emery rees Feeds Ltd,Underdown Fam,Owlsbury,Winchester,,,,SO21 1LR,01962 777340,,,,,,
+196,Evans Transport Ltd,,,,,,,,,,,,,,
+197,R Adams & Son,,,,,,,,,,,,,,
+198,CC&RJ Emerson Ltd,,,,,,,,,,,,,,
+199,A L Wilkinson Contract Farming,Bowles Farm,Barnard Gate,OXON,,,,,1865883671,,,777498234,,,
+200,E T Adams & Sons ,Darren Farm,Cowbridge,Vale of Glamorgan,CF71 7AQ,,,,,,,786067785,rj.adams@hotmail.co.uk ,ETADAM,0
+201,Rogers Transport,,,,,,,,,,,,,,
+202,Organic Arable Ltd,New Gant Farm,Swaffham Prior,Fen,Cambridge,CB25 0LQ,,,8456521706,,8456521708,798095549,katherine@organicarable.co.uk,ORG,0
+203,Hampshire Grain Transport Ltd,Overton Road,Micheldever,,,Winchester,Hampshire,SO21 3AN,1962774420,7765234470,01962 774561 ,7710909654,hgtrans@hotmail.co.uk,,
+204,Adstock Bulk,Pilch Farm,Pich Lane,,Singleborough,Milton Keynes,,MK17 0NX,1296712433,,,,,,
+205,C W Cooper&Partners(Arable),Manor Farm,Chaddleworth,Newbury,,,Berkshire,RG20 7EG,,,,772143656,colinwcooper@hotmail.co.uk,CWCOOP,0
+206,J D WRIGHT,Gore Lane Farm,Baydon,,,Marlborough,Wilshire,SN8 2JX,,,,786086780,jdwright.andson@btconnect.com ,,
+207,J Channer & Sons,Mop End Farm,Mop End,Amersham,,,,HP7 OQP,,,,,nick.channerfarming717@btinternet.com,NCF717,0
+208,Witney Grain Ltd,Unit 1 Roundway Hill Business Centre,Hopton Park Industrial Estate,,,Devizes,Wiltshire,SN10 2LT,01380 732600,01380 736461,,,sally@witneygrain.co.uk,WGL,0
+209,D Blowers,Nine Acres,mells,Halesworth,,,Suffolk,IP19 9HH,01986 873036,7990897213,,776600092,office@easeys.com,DBLOW,0
+210,G D Gent & Son,Grange Farm,Tormarton,Badminton,,,South Gloucestershire,GL9 1HU,1454218223,07776366353 George Gent,,7833246925,junegent@hotmail.com,27629,"1,000.00"
+211,Tipro Ltd,The Boathouse Business Centre,GF15,1 Harbour Square,Nene Parade,Wisbech,Cambridgeshire,PE133BH,1945581436,,1945664541,7824310475,planner@tipro.uk.com,,0
+212,Lower Henwick Farm(Sandleford),1 Elm Farm Cottages,Hamstead Marshall,,,Newbury,Berkshire,RG20 0HR,,7747732549,,,nickwallis@wallbourne.co.uk,34262,0
+213,Richard Baxter Transport,,,,,,,,,,,,,,
+214,Plymouth Industries&Wharfage Ltd,Treniffle House,,,,Launceston,Cornwall,PL159LH,1566772577,,,,richprobinson@yahoo.co.uk,,0
+215,Stobart Biomass,,,,,,,,,,,,nicholas.mowat@stobartbiomass.com,STOB,0
+216,Belcher & Son,Hale Farm,Hale Road,Benson,Wallingford,Oxford,OX10 6NE,,1491832330,,,7710856091,shirley.belcher@hotmail.co.uk,6567,100
+217,Frank Inns Hay&Straw,Gramps Hill Stud,Letcombe Bassett,,,Wantage,OXON,OX129LX,1235763536,,,786086949,frankinnshay@grampshill.co.uk,FINNS,0
+218,Baleman Services Ltd,Peach Cottage,Combe Lane,Goatacre,Calne,,Wiltshire,SN119HX,,,,785531297,balemanservices@gmail.com,BALE,0
+219,Brynley R Gough,,,,,,,,,,,,,,
+220,Micheldever Store,Overton Road,Micheldever,,,Winchester,Hampshire,SO21 3AN,1962774420,7765234470,01962 774561 ,7721508390,kelly.turner@openfield.co.uk,HAM001,0
+221,D E Williams,Llwynonnill Farm,Llanddarog,Carmarthenshire,,,,SA328AL,1267275201,,,,,DEWILL,0
+222,Emyr Williams Haulage,23 Clos Ebol,Maes-y-Ffonnon,Morriston,Swansea,,,SA66TP,1792799172,,,788527111,emyr@emyrwilliamshaulage.co.uk,EMH,0
+223,Steve Woolston&Son,Pickwick Cottage,Bishops Sutton,Alresford,,,,SO240AA,,,,07881 908897,s.woolstonandson@btinternet.com,,
+224,DE&EDE&DE Williams,Llwynonill Fawr,Llanddarog Road,Carmarthen,SA328AL,,,,,,,,fionajmorgan@live.co.uk,DEWILL,0
+225,Gillards Transport Ltd,,,,,,,,,,,,,,
+226,Camgrain Services Ltd,,,,,,,,,,,,,,
+227,H&M Retallick,Bagtor barton,Islington,,,Newton Abbot,Devon,TQ139RT,1364661269,,,777823069,carol.retallick@virgin.net,HMRET,0
+228,Brian Caley Transport Ltd,9 Hope-under-dinmore,Leominster,,,,Herefordshire,HR6 0NP,7976594385,,,,bcaleytransport@aol.com,,
+229,David Waite,,,,,,,,,,,,,,
+230,Martin Galt Transport,,,,,,,,,,,,,,
+231,1st Available Freight,,,,,,,,,,,,,,
+232,Morcross Freight Services,,,,,,,,,,,,,,
+233,James Warren,Ashbys Farm,Preston road,Eydon,Daventry,,Nothants,NN11 3PD,01327 263305,,,798029246,,,
+234,Eugene Hillier,,,,,,,,,,,,,,
+235,Blue32 Transport,Addison FArm,Hindolveston Road,Foulsham,,,Norfolk,NR20 55Q,1362683499,01362 684103,,,,,
+236,Fosters Boooth Traction,7 Watling Street,Fosters Booth,,,,Nothants,NN12 8LD,1280840280,1280840290,,,,,
+237,PHIL HOLT & SON,DANE SPRING FARM,BOWER HEATH LANE,,,HARPENDEN,HERTS,AL5 5EB,,,,7836622539,7795110066,PHOLT,0
+238,Shrewton Store,Near Rolleston Camp,Shrewton,,,,,SP34DS,1980620140,,1980620240,,wiltshiregrain@btconnect.com,WIL001,0
+239,D.P.S Transport,,,,,,,,,,,,,,
+240,Waterside Farm,Waterside Farm,Chamberhouse Mill Lane,Thatcham,,Newbury,Berkshire,Rg19 4NG,01635 872072,7836254874,,,jchfarming@gmail.com,34530,320
+241,Finedon Bulk Haulage,,,,,,,,,,,,,,
+242,Lyndon Jones,Liygiad-Yr-Haul,Rhos,Llandysul,,,,SA44 5EF,,,,,lyndonthomasjones@btinternet.coM,LJONES,0
+243,M Kettlewell,,,,,,,,,,,,,,0
+244,YKL (COURT FARM),Court Farm,Edington,Nr Westbury ,Wiltshire,,,BA134PT,07979904886 Bob King,,,,,,
+245,ManorFarm Partnership ,Manor Farm,Crookham,Thatcham,Berks,,,RG19 8EE,079386 75344 terry johnson,01189713862 office ,,,,,
+246,Bland & Sons(Manor Farm),Manor Farm,Foxhill,Swindon,SN40DX,,,,Hugh Bland 07721551887,,,,,,
+247,A More (Burghfield),Burghfield Place,,,,,,RG303RN,Robert More 07721520270,Andy more 07778934287,,,,,
+248,HFP/ Robin ButlerAvebury,Manor Farm,Avebury Trusloe,,,,,SN81QY,Robin Butler 07768931860,1672539243,,,,,
+249,HFP(Mildenham),The Grain Store,Home Farm ,Mildenhall,SN82NQ,,,,Andrew Ainslie 07831498283 ,,,,,,
+250,LHF (Lower Henwick Farm),Mousefield Farm,Thatcham,,,,,RG14 2TG,,07747792549 Nick Wallis,,,,,
+251,LFH(Chamberhouse),Chamberhouse Farm,Crookham Hill,,,Thatcham,Bershire,RG19 4NY,07747792549 Nick Wallis,,,,,,
+252,SevenLands Farm ,Manor Farm,Westhall Hill,Fullbrook,Burford,OX18 4BJ,,,07817536726 Tim Pearce,,,,,,
+253,Sarikhani/ Huttons Farm,Huttons Farm,Hambledon,Henley,,,,,07720051708 Jim Wilshere,,,,,,
+254,Hurleyford Farm,Hurley,Nr Maidenhead,Berkshire,,,,SL6 5NE,Malcolm Burfitt 07778770672,,,,,,
+255,Keith Stokes,Coate Lodge Farm,Coate,Devizes,Wilshire,,,SN103LQ,07809572006 Keith Stokes,,,,,,
+256,VS BLAND (Warren Farm),The Warren ,Aldbourne,Marlborough,Wiltshire,SN8 2LE,,,07721551887 Hugh Bland,,,,,,
+257,J H Bowden&Partners,Manor Farm,Brimpton,Reading Berkshire,,,,RG74SQ,michael Bowden07770416544 ,1889713166,,7770416544,michael.bowden@btconnect.com,,
+258,The Buswell Parnership,Lower Farm,Denton,Oxford,,,,OX449JL,07885739250 Roger Buswell,07411307007Jamie ,,,,,
+259,AR More/The Mearings,The Mearings,Burghfield,,Reading,Berkshire,,,Robert 07721520270,,,,,,
+260,T&C Bucknell,Manor Farm,Hadddenham,Aylesbury,Buckinghamshire,,,HP178AH,Tom Bucknell 01844291302,07880993760 Harry,,,,,
+261,W Bush & Co/Ebbdown,Ebbdown Farm,North Wraxall,Chippenham,Wiltshire,,,SN140QZ,07976838572 Nick Bush,1225891293,,,,,
+262,GD Gent & Son,Grange Farm,Tormartin,Badminton,South Gloucestershire,,,GL91HU,07776366353 George Gent,1454218223,Ian,7833246925,,,
+263,JR Horton & Son,The Firs,Beckhampton,Marlborough,Wiltshire,,,SN81QP,07774844147 Stephen Horton ,,,,,,
+264,AR More/Park Farm,PArk Farm,Beenham,,,,,RG75LH,07721520270 Robert More,,,,,,
+265,Chris Strainge,Peashell Farm,Curbridge,Witney,,,OXON,OX297NZ,07774235616 Chris Strainge,,,,,,
+266,Waterside Farm /J Holland,Chamberhouse Mill Lane,Thatcham,Newbury,Berkshire,,,RG194NG,07836254874 Jono Holland,,,,,,
+267,Waterside/Ashridge,Ashridge Farm,Beedon,,,,,RG208AB,7836254874,Jono Holland,,,,,
+268,Durrington Farm (Heads Farm),Heads Farm,Chaddleworth,Wantage,OXON,,,,James Taylor07753929275,,,,,,
+269,LHF(Sandleford),Wash Common Farm,Washcommon ,Essex Street,,,,RG14 6RB,NICK WALLIS 07747792549,,,,,,
+270,Belcher &Son,Hale Farm,Hale Road,Benson,Wallingford,OXON,,OX106NE,1491832330,7710856091,,,,,
+271,Cassels,,,,,,,,,,,,,,
+272,W J Bracey & Son,,,,,,,,,,,,,,
+273,E V BAILEYS Transport,,,,,,,,,,,,,,
+274,Farmcare Ltd,MANR FARM,DOWN AMPNEY ESTATE,CIRENCESTER,GLOS,GL75QF,,,1793750446,7753929275,,,james.taylor@farmcareltd.co.uk,L219,0
+275,Bradley Nussey,26 West Soley,Chilton Foliat,,,Hungerford,Berkshire,RG17 0TL,1488681742,,,7831879977,bradley@nusseyhaulage.co.uk ,,
+276,W Bush /West Farm,West Farm,West Littleton,Chippenham,,,,SN14 8JE,07976838572 Nick Bush,1225891293,,,,,
+277,Abigrain Ltd,White House Farm,Begwary,Nr Colmworth,Mk44 2NX,,,,1234772131,,1234772507,,transport@abigrain.co.uk,,
+278,R.A.U.Farms/Harnhill,Harnhill Manor Farm,,,,,,GL7 5PU,Tony Norris loader 07802567338,,,,,,
+279,S B Farming,,,,,,,,,,,,,,
+280,Depass Farms,Manor Farm,Easton Royal,Pewsey,,,,SN9 5LZ,01672 810119,07884142252 James to load,07889729746 Mar,,,,
+281,Paul East Haulage,,,,,,,,,,,,,,
+282,Bosveal Transport,,,,,,,,,,,,,,
+283,J Shewring Haulage Ltd,Gate House,Twyford,East Dereham,Norfolk,NR205LY,,,7748593486,,,,jshewringhaulage@outlook.com,,
+284,Conrad Bailey Transport,,,,,,,,,,,,,,
+285,Dunstall Transport,Old Hall,Dunstall,Burton-on-Trent,Staffs,DE13 8BE,,,1283712570,,,,,,
+286,OWEN WHITEHEAD,,,,,,,,,,,,,,
+287,Walter Carefoot&Sons(Transport)Ltd,,,,,,,,1772783711,,,,,,
+288,G M Sweet,,,,,,,,,,,,,,
+289,Day Aggregates,,,,,,,,,,,,,,
+290,Geraint Morris t/a Messrs Morris,Castell Malgwyn Farm,Llechryd,,,Cardigan,Pembs,SA43 2QB,7967140473,,,,cmfarm@hotmail.co.uk,GMORRI,0
+291,YKL / Lower Baynton,Lower Baynton Farm,Edington,Nr Westbury,Wiltshire,,,BA134NS,,,,,,,
+292,W H Betts&Sons Ltd,Poplars Farm,March,Cambs,,,,PE15 0DP,1354650441,,,,office@whbetts.co.uk,,0
+293,Online MBT,,,,,,,,,,,,,,
+294,P.X Farms Ltd,Estate Office,Scotland Farm,Dry Drayton,,Cambridge,,CB238AU,1954210211,1954211123,,,farmadmin@pxfarms.com ,,
+295,T.D BURROUGHES LTD,,,,,,,,,,,,,,
+296,Pearn Wyatt & Sons,,,,,,,,,,,,,,
+297,R.L. Taylor,,,,,,,,,,,,,,
+298,Nidera UK Limited,The Havens,Ransomes Europark,,,Ipswick ,,IP3 9SJ ,1473275030,,,,,,
+299,JPT(BULK),VICTORY FARM,ILKERSHALL ST JOHN,,,BECCLES,SUFFOLK,NR348JH,1986781442,,,,,,
+300,Lincolnshire Field Products,,,,,,,,,,,,,,
+301,Ashfield Transport,,,,,,,,,,,,,,
+302,Hugh Crane,,,,,,,,,,,,,,
+303,J.A.J SMITH & SON,MILL LANE,BARLEY GREEN,STRANBROKE,EYE,,SUFFOLK,IP21 5HW,01379 384313,,01379 388356,790291980,,,
+304,F Hobman & Sons,54 Weeland Road,Beal,Nr Goole,North Yorkshire,DN140SY,,,1977672894,,,,,,
+305,R N Potter,Lees Rest Farm,,,,Charlbury,Oxfordshire,OX7 3EU,01608 810388,,,,,38903,175
+306,Robert Potter,Lees Rest Farm,,,,Charlbury,Oxfordshire,OX7 3EU,01608 810388,,,7540249796,,,
+307,WAIN'S TRANSPORT LTD,UNIT 3,KINGSFORD CENTRE,KENTIBEARE,,CULLOPTON,DEVON,EX15 2AU,1884266300,7767664600,,,,,
+308,Mr M Affleck,Park Farm,North Moreton,Didcot,,,OXON,OX11 9BA,1235812474,,,,,17341,450
+309,Michael Afleck,PArk FArm,North Moreton,Didcot,,,OXON,OX11 9BA,01235 812474,,,,,,
+310,Mr Peter Cannon,Winterwell Farm,Northleach,,,Cheltenham,Gloucestershire,GL54 3QD,1451860542,,,7702180635,p.cannon.1@btinternet.com,16227,590
+311,Peter Cannon,Winterwell Farm,Northleach,,,Cheltenham,Gloucestershire,GL54 3QD,1451860542,,,7702180635,p.cannon.1@btinternet.com,,0
+312,Blanchard/Newhouse Farm,,,,,,,,,,,,,,0
+313,T.  Dance,Rosemary,High Street,,,Stockbridge,Hampshire,SO06HF,,,,,,,
+314,Wawcott,,,,,,,,,,,,,,0
+315,H Crocker,,,,,,,,,,,,,,0
+316,C P Long Transport,,,,,,,,,,,,,,
+317,JJ&S(MRC)Transport Ltd,Clark Avenue,Porte Marsh Industrial EState,,,Calne,Wiltshire,SN119BS,1249821188,,,,paul@jjandstransport.co.uk,,0
+318,John Penny,Rye Hill  Farm,Eydon,Nr Daventry,,,Northamptonshire,NN11 3QD,1295760255,,,7721645012,,,0
+319,Sulham Farms,,,,,,,,,,,,,,0
+320,P.C. Transport,36 Woodbury,Lambourn,Berkshire,,,,RG17 7LT,,,,7446193018,phil.corbridge@hotmail.com,,0
+321,Steve Deakins Transport,Kingsham Farm,Kingsham,Preseigne,,,Powys,LD82HR,1544267798,,,,steven.deakins@sgdeakins.co.uk,,0
+322,Velcourt / Blenheim,,,,,,,,,,,,,,
+323,Danabb Transport,Coxford Farm,Micheldever Station,,,Winchester,Hampshire,SO13AN,,,,,,,0
+324,For Farmers,,,,,,,,,,,,,,0
+325,R W Cove Transport Ltd,Gloucester,,,,,,,,,,7710679756,,,0
+326,Chasewood Farms,c/o R N Lawton,North Farm,Aldbourne,Wiltshire,SN82JZ,,,,,,7966171731,christopher@rnlawton.co.uk,CHASE,0
+327,W K Horton & Sons,Rabson Manor Farm,Winterbourne Basset,,,Swindon,Wiltshire,SN4 9QF,1793731202,,,7721922102,gill.horton@btinternet.com,H200,0
+328,G A Smith Haulage,,,,,,,,,,,,,,
+329,W J & J Green Ltd,Corskie,Garmouth,Fochabers,Moray,,,IV327NN,1343870387,,,7831884456,,,0
+330,L E Barnes(haulage) Ltd,Roxhill Manor Farm,Marston Moreteyne,,,,Bedfordshire,MK460QG,1234768265,,,,,,0
+331,RGL,The Grain Store ,Lambourn Woodlands,,,Hungerford,Berkshire,RG17 7TJ,148872217,,,7500445026,lesley@ridgewaygrain.co.uk,,0
+332,W.H. Betis &Sons,,,,,,,,,,,,,,
+333,FWP Matthews,,,,,,,,,,,,,,
+334,Mrs Alison Wills t/a Beevis Farm,Beevis Farm,Charlbury,,,,Oxfordshire,OX7 3EX,1608811505,,,7767498080,ali@beevisfarm.co.uk,11435,200
+335,M E Allen,Galleypot Farm,Old London Road,,,Chipping Norton,OXON,OX7 5XF,1684878196,accounts@galleypotfarm.co.uk,,7768883514,accounts@galleypotfarm.co.uk,15775,300
+336,Galleypot Farm,Old London Road,Chipping Norton,,,,,OX7 5XF,1608858592,07540249796RichardS,Alan Smith,7767896323,,,0
+337,Beevis Farm,Charlbury,,,,,Oxfordshire,OX7 3EX,1608811505,,,7767498080,ali@beevisfarm.co.uk,,0
+338,Singletons Transport Ltd,2 Giles Close,,,,Fareham,Hampshire,PO167JA,,,,,traffic@singletonstransport.co.uk,,0
+339,Eurobulk Ltd,Mark Lane,Denton,,,Gravesend,Kent,DA122QB,1474331330,,,7710837818,trafficoffice@eurobulk.co.uk,,0
+340,Yattendon Estates Ltd,Alastair Jeffrey,Estate Office,Burnt hill,Thatcham,Newbury,Berkshire,RG180UY,1635203905,7717660397,,,juliega@yattendon.co.uk,Y330,0
+341,Yattendon Estate,Haw Farm,Hamstead Norreys,,,,Berkshire,RG180TP,1635203905,,,7717660397,n.down@velcourt.co.uk,,0
+342,Waite & Sons,,,,,,,,,,,,,,
+343,P J Thorey,,,,,,,,,,,,,,0
+344,Donald Brown,Trumpletts Farm,,,,,,,,,,,,,0
+345,K E & J M WATKINS & SON,,,,,,,,,,,,,,
+346,E P Cambridge,,,,,,,,,,,,,,0
+347,Ivor Denton,,,,,,,,,,,,,,
+348,Paul Smart Transport Ltd,Rocks Lane,,,Felton,Bristol,Avon,BS409YR,1275474995,,,,,,0
+349,T W SKUSE,2 WOOLAWAYS BUNGALOW,HEDDINGTON,CALNE,,,WILTSHIRE,,7970297728,,,,twskusetransport@hotmail.co.uk,,0
+350,D Stacey & Son Ltd,108 Washington Road,,,,Westbury,Wiltshire,BA13 4JP,1373824884,,,7864743688,,,0
+351,R N Lawton,North Farm,Aldbourne,,,,Wiltshire,SN8 2JZ,,,,7966171731,christopher@rnlawton.co.uk,,0
+352,Maen Karne Aggregates Ltd,,,,,,,,,,,,,,
+353,T.C. Transport,,,,,,,,,,,,,,
+354,Chris Dayman Transport,,,,,,,,,,,,,,
+355,White Horse Transport,Stable Cottage,High Street,Uffington,,,OXON,SN77RP,1367820275,,,7789686320,davidwhitehorsetransport@btconnect.com,,
+356,RJM Commercials Ltd,Hill House Ind Estate,Bunwell Roas,,,Besthorpe,Norfolk,NR172LR,1953878145,,,7802725274,bussey@rjmcommersials.co.uk,,
+357,Tim Ingram-Hill,Southcot Vineyard Partnership,Southcott House,,,Pewsey,Wiltshire,SN9 5JF,,,,7860634247,tim@ingramhill.co.uk,40172,0
+358,ADM Erith,,,,,,,,,,,,,,
+359,Solent Stevedores,Berth 105,,,,,,,,,,,,,
+360,C W Nash (Farms) Ltd,Manor Farmhouse,Manningford Bohune,,,Pewsey,Wiltshire,SN9 6BY,1980635078,,,7770977000,ctnash@btconnect.com,6533,600
+361,ACH Haulage Ltd,Brook Farm,Staple Road,,,Wingham,Kent,CT3 1LP,,,,7931344903,achulmesonns@btconnect.com,,0
+362,Lambert LBH,97 Northumberland Avenue,,,,MArgate,Kent,CT9 3LX,,,,7760898389,,,0
+363,Siera Golf Enterprise(EarlsCourt),East End Farm,East End,,,Nr Newbury,Berkshire,RG200AB,148871869,7770481982,,7500229285,robert@rooksnest.net,,
+364,JBF Feeds Mobile Ltd,"Head Office, The Cabin",Blackditch Farm,Chinnor Road,,Thame,OXON,OX9 3RF,1844213635,,,7860798110,admin@jbfeeds.co.uk ,,0
+365,J. & J. WARD LTD,THE GARAGE,PATRICK BROMPTON,,,BEDALE,NORTH YORKSHIRE,DL8 1JP,1677450000,,,,,,
+366,C W Nash,MAnor Farm,Manningford Bohune,,,Pewsey,Wiltshire,SN9 6BY,1980635078,,,7770977000,ctnash@btconnect.com ,,
+367,R D Walker&Partners,College Farm,Chipping Norton Road,Ascot under Wychwood,,Chipping Norton,OXON,OX7 6AL,1993831900,,,7885498802,robin@college-farm.com,31894,175
+368,Robin Walker,College Farm,Chipping Norton Road,Ascott under Wychwood,,Chipping Norton,OXON,OX7 6AL,,,,7885498802,robin@college-farm.com,,
+369,Sierra Golf Enterprises,c/o Earls Court Farm Ltd,Rooksnest Estate Office,Ermin Street,Lambourn Woodlands,Hungerford,Berkshire,RG17 7SH,01488 71869,,,7500229285,farm@rooksnest.net,40274,0
+370,ADM Direct,A Division of Archer Daniels Midland(UK),Barton Court,223 Barton Road,,Comberton,Cambridge,CB23 7BU,,,,,,,
+371,Evans Bros,9 High Street,Llanybie,,,,Carmarthenshire,SA18 3HX,1269851512,,,7711458681,evansbrosbukkhaulage@btconnect.com,,0
+372,S&J Transport Ltd,Unit 20C,Station Road,Coleshill,,,West Midlands,B46 1JG,1675464144,,,7976608084,,,0
+373,PJ&J Dearden (Chard) Ltd,Chaffcombe Depot,Chaffcombe Road,Chard,,,Somerset,TA201RR,146062281,,,,admin@deardens-haulage.co.uk,,
+374,D H Pearson Ltd,Puddlers Lane,South Tees Industrial Park,,,South Bank,Cleveland,TS6 6TX,1642430430,,,,,,0
+375,Cowindale Feeds,Penbontbren Lane,Llysonnen Road,,,,Carmarthen,SA33 5ED,1267211555,,,,,,0
+376,Andy Hughes,No1 Hilldrop Farm Cottages,Ramsbury,,,,Wiltshire,SN8 2HB,,,,,,,
+377,K S Orchard,Topfield Farm,Baydon,,,,Wiltshire,SN8 2DJ,,,,7909555198,,,
+378,J Cantlay & Son,Simbura,Worlds End,Beedon,,Newbury,West Berkshire,RG20 8SA,1635246922,,,,,,
+379,D P Willis,10 Louthe Way,Sawtry,,,,Hunts,PE285TR,1487831212,7801980201,,7939254269,,,0
+380,Sanderson & Sons,Stainswick Farm,Ashbury,,,,,,,,,,,,0
+381,WRN,,,,,,,,,,,,,,0
+382,William Brown,Manor Farm,Aldbourne,,,,,,,,,,,,0
+383,APL(Humberside)Haulage Ltd,Little Humber,Paull,Hull,HU12 8AY,,,,1964622292,,,,,,0
+384,Southern Stores Direct Pricing Pool stoc,,,,,,,,,,,,,,0
+385,Southern Stores Double Use Pool stock,,,,,,,,,,,,,,0
+386,Southern Stores Long Pool stock,,,,,,,,,,,,,,0
+387,Recovered Polymers,Merchant House,5 East St Helens Street,,,Abingdon,OXON,OX14 5EG,,,,07837 191893,recoveredpolymers@gmail.com ,,0
+388,K Peploe& Son,Idston Farm,Ashbury,,,Swindon,Wiltshire,SN68LL,1793710266,,,7766007722,cpeploe@idstonefarm.co.uk,34352,"1,000.00"
+389,RTS Transport,Lower Beckett Farm,Ashwater,,,Beaworthy,Devon,EX21 5HE,1409211311,7768234102,1409211461,7768234105,t.nh@live.co.uk,RTS,0
+390,Steadings Farming Ltd,Ox Yard Office,Ewe Pens Farm,Cirencester Park,,,Gloucestershire,GL7 6LX,1285652788,,,7799038627,sbatchelor@cpffarming.co.uk,40490,90
+391,Charlie Peploe 2,Barn,Badbury,A346-B4192,,SN40EU,1793710266,,,7766007722,cpeploe@idstone,,,,
+392,Steadings,Ewe Pen Farm,Cirecester Park,,,,,,1285652788,,,7799038627,sbatchelor@cpffarming.co.uk,,
+393,Andres Hempell,Hillfoot Farm,Hillfoot,Chapel Row,Bucklebury,Reading,Berkshire,RG7 6PG,,,,7771645337,hempell@btinternet.com,AHEMP,0
+394,Bendall Read,Monmouth Road,Longhope,,,,Gloucs,GL17 0DG,1452831988,,,,,,0
+395,Horcott Haulage,Horcott Farm House,Horcott Road,,,Fairford,GLoucestershire,GL7 4BZ,1285712478,,,7834989227,horcotthaulage@yahoo.co.uk,,
+396,Everett Haulage,,,,,,,,,,,,,,
+397,N P Allen,West Farm,Popham,,,Winchester,Hampshire,SO213BH,01256 397214,,,7887896148,,9089,250
+398,NP Allen,West Farm,Popham,,,Winchester,Hampshire,SO213BH,1420525272,Tony Goodsell,,7799113371,,,
+399,A K Kirby,Manor Farm Buildings,Manor Farm,Exton,,Soberton,Hampshire,SO323LA,,,,7776147800,,30019,800
+400,W G & T Brock,Manor Farm,West Worldham,,,Alton,Hampshire,GU34 3BD,07799 112271,01420 82107,,,,9094,500
+401,Matterley Estates,Matterley Farm,Barley Down Farm,Ovington Down,,Alresford,Hampshire,SO24 OHV,07775 610768,01962 732795,,,,1361,100
+402,Hartley Park Farms Ltd,Hartley Park Farm,Selborne,,,Alton,Hampshire,GU34 3HS,07778 005789,01420 511204,,,,392,"1,025.00"
+403,R A C Corbett,c/o Sheep Dip,Hinton Ampner,,,Alresford,Hampshire,SO24 0LF,07831 756454,07962 771272,,,,1002,500
+404,F D Faulkner & Son,Norton Farm,Selborne,,,Alton,Hampshire,GU34 3HU,07742 635765,01420 511252,,,,9103,700
+405,Heather Row Farms,Heather Row Farms,Greywell Hill,Greywell,,Hook,Hampshire,RG29 1DG,07799 113371,01256 703565,,,,9138,700
+406,Messrs G H & I E J Gray,Graces Farm,Martyr Worthy,,,Winchester,Hampshire,SO21 1DX,01962 779602,,,7929276568,,363,"2,500.00"
+407,D H & R Gray,Westfield Farm,Cheriton,,,Nr Alresford,Hampshire,SP24 0NT,07855 089447,01730 829094,,,,9805,"1,100.00"
+408,Messrs G N & J E Gray,Wonston Manor Farm,,,,Sutton Scotney,Hampshire,SO21 3PD,,01962 760204,,,,364,100
+409,Mrs R C Groves,Peak House Farm,Cole Henley,,,Whitchurch,Hampshire,RG28 7QJ,07799 883306,01256 892136,,,,9059,330
+410,C S Hunt & Son (Enham) Ltd,,Church Cottage,Knights Enham,,Andover,Hampshire,SP10 4DT,07860 588656,01264 365523,,,,1460,"2,450.00"
+411,Northbrook Farms Partnership,c/o Sheep Dip,Hinton Ampner,,,Alresford,Hampshire,SO24 0LF,07831 756454,,,,,32951,"1,300.00"
+412,C H Dixon & Son,West Stratton Manor,West Stratton,,,Winchester,Hampshire,SO21 3DR,07774 267783,,,,,251,710
+413,Michael Portman,Bluebell Farm,Penton Grafton,,,Andover,Hampshire,SP11 0RR,07836 383445,,,,,9157,510
+414,Yarnhams Partners,Yarnhams Farm,Upper Froyle,,,Alton,Hampshire,GU34 4DD,7776147800,01256 862291,,,yarnhamspartners@hotmail.com,1335,900
+415,Grange Farm Partnership,Grange Farm,Tichborne,,,Alresford,Hampshire,SO24 0NE,07812 601325,01962 732120,,,,1074,"2,700.00"
+416,A C & M C Brooking,Hall Farm Grainstore,Holt End Lane,Bentworth,,Alton,Hampshire,GU34 5LF,07850 579598,01420 565600,,,,9095,600
+417,Burntwood Farm,Burntwood Farm,Martyr Worthy,,,Micheldever,Hampshire,SO21 1AF,07774 655672,01962 732260,,,,30085,300
+418,Openfield Agriculture Ltd(Micheldever),Honey Pot Lane,Colsterworth,Grantham,,,Lincolnshire,NG33 5LY,01476 862730,01476 862796,info@openfield.,,stocks@openfield.co.uk ,23123,0
+419,M C Walford,,,,,,,,,,,,,9174,0
+420,B V C Waltho,Cobbs Farm,Bishops Sutton,,,Alresford,Hampshire,SO24 0AP,,01962 732341,,,,9176,550
+421,DEAN FARM,Dean Farm,Dean Lane,Bishops Waltham,,,Hampshire,SO3 1FX,07818 032822,01489 892959,,,,1634,400
+422,Polhampton Farm Partnership,Polhampton Farm,Overton,,,Basingstoke,Hampshire,RG25 3ED,07768 004526,01256 770246,,,,30792,100
+423,Meyrick Estates,Upper Farm,Headbourne Worthy,,,Winchester,Hampshire,SO23 7LA,07771 863290,,,,,,
+07795 288319,,,,9148,HG 075,,"1,100.00",,,,,,,,
+424,D B & M H Green,Magdalen Hill Farm,Springfield,Fair Lane,,Winchester,Hampshire,SO21 1HF,07973 347209,01962 852815,,,,366,135
+425,R C H Morgan Giles,Upton Park Farm,,,,Old Alresford,Hampshire,SO24 9DX,07774 655672,01962 732260,,,,1374,"1,000.00"
+426,Messrs M Gibbons & Sons,Upper Farm,Bradley,,,Alresford,Hampshire,SO24 9SA,07711 177170,01256 389291,,,,1611,"1,300.00"
+427,D A & S A Mayes,Riseley Farm,Park Lane,Swallowfield,,Reading,Berkshire,RG7 1TB,07778 357591,01189 332372,,,,9147,300
+428,Major Wilson,Brocklands Farm,West Meon,,,Petersfield,Hampshire,GU32 1JN,07824 635352,,,,brocklandsfarm@gmail.com,9177,200
+429,T C Coyte,Hurst Farm,Iping Road,Milland,,Liphook,Hampshire,GU30 7NA,07891 403571,01428 741511,,,,9098,285
+430,Rex Paterson (Farms) Ltd,Upper Cranbourne Farm,Sutton Scotney,,,Winchester,Hampshire,SO21 3QD,07802 391105,,,,,,
+,,,d.r.paterson@btopenworld.com,611,HG 107,,500,,,,,,,,
+431,J & J Bown,Bassetts Farm,Steventon,,,Basingstoke,Hampshire,RG25 3BJ,07785 793074,01256 397389,,,,9093,525
+432,M C C & F A Heaton,Tagents Farm,Grafton,,,Petworth,West Sussex,GU28 0NL,07973 248485,,,,,,
+07785 500203,,,,38899,HG 111,,100,,,,,,,,
+433,T J Everett,Ashley Farmhouse,Ashley,Kings Somborne,,Stockbridge,Hampshire,SO20 6RQ,07786 333278,,,,,,
+,,,,9101,HG 114,,700,,,,,,,,
+434,Edward Painter & Partners,Manor Farm,Chilbolton,,,Nr Stockbridge,Hampshire,SO20 6BQ,07967 180199,01264 860764,,,,603,"1,650.00"
+435,Kings Farm Estate Ltd,Manor Farm,Farringdon,,,Alton,Hampshire,GU34 3EE,07767 872001,01395 597221,,,,33028,600
+436,Stephens & Son Farms Ltd,Stubbs Farm,Kingsley,,,Bordon,Hampshire,GU35 9NR,07885 055319,01420 474906,,,stubbsfarm@gmail.com,751,875
+437,Five Oaks Farm Ltd,Billingshurst,,,,,Sussex,RH14 9AZ,07801 698561,01403 782666,,,,25566,250
+438,A W Fuller,Southfield Farm,The Estate Office,Chawton,,Nr Alton,Hampshire,GU34 3DQ,07799 113371,01420 525272,,,,9105,800
+439,Messrs W & P Ives,Park Farm,Herriard,,,Basingstoke,Hampshire,RG25 2PD,07770 340318,01256 381218,,,,9140,"1,200.00"
+440,G W Dunford,Vale Farm,Longparish,,,Andover,Hampshire,SP11 6QW,07712 063210,01264 720227,,,,258,400
+441,Lower Norton Farm,,Norton,Sutton Scotney,,Winchester,Hampshire,SO21 3NE,07885 439668,01962 760407,,,,9145,"1,100.00"
+442,Mrs A P Maiklem,,Old Shortlands Cottage,Dunsfold Road,,Plaistow,West Sussex,RH14 0PJ,1403871191,01932 862312,,07785 915990,awnmaiklem@gmail.com,529,250
+443,Stern Farms Ltd,Hyde Farm,6 Hyde Road,Long Sutton,,Hook,Hampshire,RG29 1SP,07836 212747,01256 862415,,,sternfarms@gmail.com,1695,"1,450.00"
+444,Sam Farrant & Sons,Manor Farm,Eaton,,,Abingdon,Oxon,OX13 5PR,07785 931567,01865 862906,,,,26189,800
+445,Messrs M J Tosdevine & Son,Duncombe Farm,East Meon,,,Petersfield,Hampshire,GU32 1PB,07968 417239,01730 823268,,,grahamtosdevine@btinternet.com,793,400
+446,J&M Newbery,Porch Farm,Newbury Road,Kingsclere,,Newbury,Berkshire,RG20 4SX,07770 298386,01635 298386,,,,9156,395
+447,R D Hodge & Son,,Brocas Lands,Mortimer,,Reading,Berkshire,RG7 2HB,07774 785780,01189 332327,,,,9139,700
+448,Rinder Limited,Stroud Farm,Holyport,,,Maidenhead,Berkshire,SL6 2LJ,07881 862557,01628 620840,,,,9162,250
+449,Dr G M Masson (Hill Farm),Hill Farm,Lower Norton,Sutton Scotney,,Winchester,Hampshire,SO21 3NE,07885 439668,01962 760407,,,,9146,"1,100.00"
+450,Whipley Manor Farm Ltd,Whipley Manor Farm,Palmers Cross,,,Bramley,Surrey,GU5 0LL,07957 864725,01483 272816,,,adrian@whipleymanorfarm.co.uk,847,250
+451,Venthams Farm Partners,Venthams Farm,Froxfield Green,,,Petersfield,Hampshire,GU32 1DH,07968 417239,01730 264200,,,grahamtosdevine@btinternet.com,806,500
+452,J T L Jervoise,Home Farm,Herriard,,,Basingstoke,Hampshire,RG25 2PL,07711 880198,01256 381275,,,,9141,"1,200.00"
+453,E C Boulton & Son,Brightside Farm,Salisbury Road,Broughton,,Stockbridge,Hampshire,SO20 8BX,07527 075219,01794 301212,,,,9092,100
+454,C H & H E Flindt,Manor Farm,Hinton Ampner,,,Alresford,Hampshire,SO24 0LE,07774 760306,01962 771201,,,,1103,"1,000.00"
+455,Marianne Le Roy Lewis,Childer Hill Farm,Bentworth,,,Alton,Hampshire,BA2 4SU,07850 579598,01420 564088,,,,1608,200
+456,Gillian M Gray & M J Knight,Scrubbs Farm,Park Lane,Bishops Sutton,,Alresford,Hampshire,SO24 0HR,07768 900166,01962 736029,,,,9132,400
+457,E M Horn & Sons,Upper Hill Farm,Droxford Road,,,Southampton,Hampshire,SO23 2PY,07816 258217,01489 877434,,,,430,500
+458,Raglington Farm Ltd,Broadcroft,Botley Road,Shefield,,Southampton,Hampshire,SO32 2HL,07887 871383,01489 792494,,,,9161,500
+459,Newhouse Farm Partnership,,Northington Down,,,Alresford,Hampshire,SO24 9UB,07712 551941,01962 734007,,,iancammack@aol.com,9151,"2,500.00"
+460,Sir Richard Sutton Limited,Settled Estate,Benham Estate Office,,,Newbury,Berkshire,RG20 8LR,07798 637071,01635 40036,,,,7434,"5,100.00"
+461,Winchester College Estates,Manor Farm,Exton,,,Southampton,Hampshire,SO32 3LA,07776 147800,01730 829724,,,c-cmartin@btinternet.com,30063,800
+462,Crowmarsh Battle Farms Ltd,Crowmarsh Battle Farms,84 Preston Crowmarsh,,,Wallingford,Oxon,OX10 6SL,07781 149000,,,,,,
+,,,,1650,HG 196,,700,,,,,,,,
+463,W S M Robinson,Kings Farm,Lower Wield,,,Alresford,Hampshire,SO24 9RX,07711 77170,01256 389291,,,,,
+,,office@kingsfarm.co.uk,11929,HG 197,,"1,900.00",,,,,,,,,
+464,Tom Parker Farms,Broom Farm,Hambledon Lane,Soberton,,Southampton,Hampshire,SO32 3PZ,07802 259345,02392 632808,,,,12679,600
+465,Sutton Scotney & Dunley Estates,Winchester College,Manor Farm,Exton,,Southampton,Hampshire,SO32 3LA,07776 147800,,,,,30039,800
+466,Davis And Co,St Michaels Rectory,St Michaels Alley,,,Cornhill,London,PO4 0NR,07850 579598,01420 565600,,,,27907,250
+467,R C Pettit-Mills & Son,Hyde End Farm,Hyde End Lane,Brimpton,,Nr Reading,Berkshire,RG7 4RJ,07747 703584,01189 712345,,,,30015,250
+468,Cheyney Farming Partnership,Southrope Farmhouse,Back Lane,Herriad,,Basingstoke,Hampshire,RG25 2PU,07710 200904,01256 381227,,,,1553,300
+469,Southern Granary Services Ltd,,,,,,,,,,,,,30009,0
+470,J W Stephens,,,,,,,,,,,,,30005,0
+471,Messrs F J Darnell & Son,Manor Farm,Turnworth,,,Basingstoke,Hampshire,RG25 2NB,07796 012718,01256 460430,,,,231,500
+472,J Curry,Wallops Farm,Woodend,Sheardley Lane,,Droxford,Hampshire,SO32 3QY,,,,,,24228,"1,000.00"
+473,Scribeland Ltd,The Farm Office,Green Barn Farm,Selborne Road,,Alton,Hampshire,GU34 3HL,07799 113371,01420 525272,,,scribeland@aol.com,10948,100
+474,Andrews (Shipside Services) Ltd,Owls Lodge Farm,Nuns Walk,,,Longparish,Hampshire,SP11 6PJ,07889 210355,,,,rod@owlslodgeestate.co.uk,29976,150
+475,D R Busk,Houghton Lodge Farm,Houghton,,,Stockbridge,Hampshire,SO20 6LQ,1794388389,7974752769,,,,138,60
+476,H B H (Farming) Ltd C/o Hildred par,Ewhurst Park Farm,c/o Icknield Farm,Ipsden,,Wallingford,Oxon,OX10 6AS,07768 627012 ,,,,,,
+,,,,27215,HG 217,,"1,500.00",,,,,,,,
+477,Lower Wyke Farms,Lower Wyke Farm,St Mary Bourne,,,Andover,Hampshire,SP11 6AW,07860 471623,,,,,,
+,,,mattculley@gmail.com,30430,HG 218,,900,,,,,,,,
+478,Lupin Farm Partnership,Lupin Farm,Colemore,,,Alton,Hampshire,GU34 3PT,07776 147800,01489 878766,,,,31580,400
+479,M R & J Cheyney,Middle Farm,Cheriton,,,Alresford,Hampshire,RG24 0PW,01962 771627,,,07768 900166,,20056,500
+480,Wheatsheaf Farming Co,Folly Farm,North Waltham,,,Basingstoke,Hampshire,RG25 2BS,07771 803887,01962 774029,,,fowell103@hotmail.com,21845,1
+481,Messrs A S Cray,Roe Down Farm,Medstead,,,Alton,Hampshire,GU34 5LG,07850 579598,01420 565600,,,,1525,150
+482,Westover Farm Partnership,Westover Farmhouse,Goodworth Clatford,,,Andover,Hampshire,SP11 7LF,07885 439668,01962 760407,,,lowernortonfarm@aol.com,31724,"2,500.00"
+483,University Of Reading,Centre for Dairy Research,Arborfield Hall Farm,Church Lane,,Reading,Berkshire,RG2 9HY,07710 865165,01189 761722,,,j.lamburn@reading.ac.uk,7486,850
+484,Palmer Tompkinson,Grange Manor Farm,Dummer Grange,Dummer,,,Basingstoke,Hampshire,RG25 2AT,07771 803887,,,,361,250
+485,Sir Simon & Lady Robertson,Caigers Farm,Upper Wield,,,Nr Alresford,Hampshire,SO24 9RU,07771 803887,,,,fowell103@hotmail.com,32886,500
+486,H C & K A Baylis,Folly Farm,North Waltham,,,Basingstoke,Hampshire,RG25 2BS,07771 803887,,,,,9363,250
+487,Whitewater Potatoes Ltd,Lodge Farm,Hook Road,Hook,,Basingstoke,Hampshire,RG29 1HA,07976 709902,01256 702665,,,andrew.janaway@yahoo.com,27732,400
+488,J L Farming,Hall Farm Grainstore,Holt End Lane,Bentworth,,Alton,Hampshire,GU34 5LF,07850 579598,,,,julianrlewis@gmail.com,34762,1
+489,Sulham Farms(Reading),Nunhide Farm,Nunhide Lane,Pangbourne,,Reading,Berkshire,RG8 8ER,07770 583128,,,,office@sulhamestate.co.uk,531,900
+490,G R Bowsher,Field Barn Farm,Beenham,,,Reading,Berkshire,RG7 5LT,7557967575,01189 713035,,,,15641,100
+491,Geoff Elliott Farming,,Reivers,Salisbury Road,,Broughton,Hampshire,SO20 8BU,07909 685667 ,,,,,,
+,,07836 553919,,35605,HG 233,,200,,,,,,,,
+492,Seligman Farm Developments Ltd,New Barn Farm,Crawley,,,Winchester,Hampshire,SO21 1HR,07885 439668,01962 760407,,,lowernortonfarm@aol.com,706,250
+493,Heaton Farms Ltd,,,,,,,,,,,,,398,1
+494,The Trustees of John Corbett Shorle,Durden Lodge,Cheriton,,,Alresford,Hampshire,SO24 0NY,07799 647431,01962 771557,,,,1507,145
+495,Breach Farm,Breach Farm,Brighton,,,Alresford,Hampshire,SO24 9SD,07801 348145,,,,,,
+07702 317218,,,,35101,HG 237,,0,,,,,,,,
+496,JG & M Bray,Nursted Farm,Buriton,,,Petersfield,Hampshire,SO24 5RW,07749 526742,01730 264278,,,,33926,100
+497,The Widgits Company Ltd,Upper Cafaude Farm,Cafaude Lane,,,Bramley,Hampshire,RG26 5DP,07500 887950,01189 099079,,,,37371,100
+498,Manor Farm Partnership(Weston Patrick),Manor Farm Partnership,St Lawrence House,Church Lane,,Weston Patrick,Hampshire,RG23 3JF,07973 623029,01256 862978,,,,,
+,,,26262,HG 240,,300,,,,,,,,,
+499,P Jeffery,Swampton Farm,Gangbridge Lane,St Mary Bourne,,Andover,Hampshire,SP11 6EW,07765 330698,01264 738733,,,,16022,100
+500,TP & KA Houghton,Breach Farm,Breach House,Dummer,,Basingstoke,Hampshire,RG25 2AX,07754 811534,01256 389416,,,,35271,400
+501,Wiltshire Grain Ltd,,,,,,,,,,,,,863,0
+502,Ridgeway Grain Ltd,,,,,,,,,,,,,33255,0
+503,Street End Farm Partnership,Street End Farm,Bishops Waltham,,,Southampton,Hampshire,SO32 1FS,07836 252598,,,,,,
+,,,richard@streetendfeeds.co.uk,727,HG 245,,750,,,,,,,,
+504,A K Kirby (Borovere),Manor Farm Building,Manor Farm,Soberton,,Exton,Hampshire,SO32 3NU,07776 147800,,,,,,
+,,,,39186,HG 246,,150,,,,,,,,
+505,Foudry Farming Ltd,Butlers Lands Farm,Mortimer,,,Reading,Berkshire,RG7 2AG,07778 357581 ,,,,,,
+,,,,35081,HG 247,,500,,,,,,,,
+506,D J & M E Saunders & Son,Hamilton Farm,Beauworth,,,Alresford,Hampshire,SO24 0PB,07831 474445,01962 771969,,,office@hamiltonfarm.co.uk,697,200
+507,Bullington Manor Farm,Bullington Manor Farm,Norton,Sutton Scotney,,Winchester,Hampshire,SO21 3NE,07885 439668,,,,,,
+07710 892196,,,,10631,HG 250,,"1,500.00",,,,,,,,
+508,Peake Farm Partnership,Peak Farm,Warnford,,,Nr Southampthon,Hampshire,SO21 3LA,07968 417239,01730 823268,,,,39280,0
+509,Mr Witter,Childer Hill Farm,Bentworth,,,Alton,Hampshire,GU34 5JR,07850 579598,01420 565600,,,julianrlewis@gmail.com,39280,0
+510,John Broadway,Harroway Farm,Ramsdean Lane,,,Petersfield,Hampshire,GU32 1RT,01730 823342,,,,07501 489050,26462,0
+511,E.G. ALLARD & SON,WOODCOMBE FARM,BRIXTON DEVERILL,,,WARMINSTER,WILTSHIRE,BA12 7EJ,1985840314,,,7771556587,patallard007@gmail.com,9048,300
+512,A.G. & C.E. CARTER,STANDLYNCH FARM,DOWNTON,,,SALISBURY,WILTSHIRE,SP5 3QR,1722710382,,,7971239993,,25927,100
+513,J & W COLLINS,MANOR FARM,CODFORD,,,WARMINSTER,WILTSHIRE,BA12 0NP,1985850193,,1985850874,7977470333,manorfarmcodford@gmail.com,1240,900
+514,DINTON & BAVERSTOCK,MANOR FARM,BAVERSTOCK,,,SALISBURY,WILTSHIRE,SP3 5EG,172271249,,,77860448608,dcl.ltd@btconnect.com,249,0
+515,COOKSON FARMS,MANOR FARM,STRATFORD TONY,,,SALISBURY,WILTSHIRE,SP5 4AT,1722718217,1722718547,1722718217,7770988820,barnlodge1@btinternet.com,9055,"1,400.00"
+516,N.D. DIBBEN FARMS LTD,UPWOOD,SIXPENNY HANLEY,,,SALISBURY,WILTSHIRE,SP5 5PQ,1725552246,01725552518 (home),,7789221050,james_reed@btopenworld.com,1461,"1,600.00"
+517,FIELDFARE FARMS LTD,FORD FARM,FORD,,,SALISBURY,WILTSHIRE,SP4 6DR,1980611853,,1980611130,7831315361,jeremydbailey@hotmail.com,286,"1,000.00"
+518,HILL FARMS LTD,HILL FARM,EAST WINTERSLOW,,,SALISBURY,WILTSHIRE,SP5 1BH,1980862206,1980862773,,7774281235,,409,"1,500.00"
+519,HAREPATH FARM PARTNESHIP,BURBAGE,,,,MARLBOROUGH,WILTSHIRE,SN8 3BT,1672810421,,,7802596868,,15993,100
+520,BAKE FARMING LTD,6 MANOR FARM COTTAGE,BROADCHALKE,,,SALISBURY,WILTSHIRE,SP5 5DS,1722781079,,,7770777120,bakefarming1@btinternet.com,1024,400
+521,HUNTON FARM PARTNERSHIP,C/O T. FINN-KELCEY,KIRBYS COTTAGE,STOKE CHARITY,,WINCHESTER,HAMPSHIRE,SO21 3PF,1962760264,,,7967118174,tfk2@yahoo.com,9061,300
+522,J.C. JEFFERY,ARUNDELL FARM,DONHEAD,,,SHAFTSBURY,DORSET,SP7 9LL,1747828952,1747828952,,7773933223,markjeffery071@gmail.com,459,350
+523,A.G. LAMBERT & PARTNERS,DARFIELD FARM,,,,STOCKBRIDGE,HAMPSHIRE,SO20 6JU,1264810664,,1264811743,7801345746,lambert@farmline.com,481,"1,500.00"
+524,R & G MOORE,THE LITTLE HOUSE,STAPLEFORD,,,SALISBURY,WILTSHIRE,SP3 4LT,1722790253,,,7887656474,greenstar4263@icloud.com,563,"1,050.00"
+525,FRANCIS SHEPHARD LTD,MADBROOK FARM,CHARLFORD,,,WESTBURY,WILTSHIRE,BA13 3RB,1373822152,,,,fshephard@btinternet.com,9058,100
+526,WITHERINGTON FARM,MRS A.W. FERGIE-WOOD,DOWNTON,,,SALISBURY,WILTSHIRE,SP5 3QT,,,,7850720381,jamesdean@churchfarms.com,20944,600
+527,F SWANTON & SONS,NORTH FARM,OVERTON,,,MARLBOROUGH,WILTSHIRE,SN8 1QE,1672861229,,,7768933195,,9084,200
+528,JOHN TARRENT,ROLLESTONE FARM,LONDON ROAD,SHREWTON,,SALISBURY,WILTSHIRE,SP3 4DR,1980620483,,,,,30426,0
+529,E.J. TYLER,IVY MILL FARM,EDINGTON,,,WESTBURY,WILTSHIRE,BA13 4NL,1380830206,,,7813130973,,7021,900
+530,ALLENFORD FARMS,DAMERHAM,,,,FORDINGBRIDGE,HAMPSHIRE,SP6 3JW,1725518318,1725518532,1725518739,7773287844,roberteshepherd@btinternet.com,9049,250
+531,WEST WOODYATES FARM PARTNERSHIP,MANOR FARM,WEST WOODYATES,,,SALISBURY,WILTSHIRE,SP5 5OS,01725552321 (Tim),01725552631 (Lyn),,7801760262,tjpalmer2@tiscali.co.uk,11752,"2,100.00"
+532,J.W. YOUNG & SON,BARLEYCROFT FARM,SHREWTON,,,SALISBURY,WILTSHIRE,SP3 4EW,1980620561,,,,,888,350
+533,JONATHON J. JARDIN-PATERSON,SOUTH FARM,NORTON BAVANT,,,WARMINSTER,WILTSHIRE,BA12 7BB,,,,,,1222,255
+534,EDWARD PAINTER & PARTNERS B,MANOR FARM,CHILBOLTON,,,STOCKBRIDGE,HAMPSHIRE,SO20 6BQ,1264860357,,1264860764,7967180199,james@manorfarmhants.com,603,0
+535,LONGCLOSE FARMING LTD,THE MANOR HOUSE,THE PORTWAY,WINTERBOURNE GUNNER,,SALISBURY,WILTSHIRE,SP4 6JL,,,,,rsbwhite@hotmail.co.uk,10255,0
+536,J. THATCHER & SONS,LEY FARMHOUSE,TEFFONT EVIAS,,,SALISBURY,WILTSHIRE,SP3 5RW,1722790235,,,7971411536,willthatcher@btconnect.com,779,100
+537,RSPB,MANOR FARM,NEWTON TONY,,,SALISBURY,WILTSHIRE,SP4 0AH,,,,,,30425,500
+538,R.J. BUTLER & SON,EAST WICK FARM,WOOTTON RIVERS,,,MARLBOROUGH,WILTSHIRE,SN8 4NS,1672810255,,1672810884,7768936307,david.butler34@gmail.com,11895,10
+539,H.M. RENWICK LTD,KINGSTONES FARM,CADLEY,,,MARLBOROUGH,WILTSHIRE,SN8 3BW,1672512039,,1672515947,,hmrenwick@btconnect.com,667,600
+540,P.J. ROWLANDS & SONS (FARMERS) LTD,BOWDEN FARM,WESTCOURT,BURBAGE,,MARLBOROUGH,WILTSHIRE,SP4 7EB,1672810260,1672811523,,7768515332,charlie@ratfyn.co.uk,1241,200
+541,MRS R.C. GROVES,COLE HENLEY MANOR FARM,,,,WHITCHURCH,HAMPSHIRE,RG28 7QD,,,,7780996331,rosh.groves@btinternet.com,9059,180
+542,BUTLER BROS (AVEBURY) LTD,MANOR FARM,AVEBURY TRUSLOE,,,MARLBOROUGH,WILTSHIRE,SN8 1QY,1672539243,,1672539230,7768931860,butlerbrosavebury@gmail.com,1364,"1,000.00"
+543,H.J. & I.J. WROTH,WEST FIELD,CLATFORD,,,MARLBOROUGH,WILTSHIRE,SN8 4EB,1672861040,1672513679,1672861240,7850371844,ian-wroth@tiscali.co.uk,1454,950
+544,3D FARMING PARTNERSHIP,HAZELCOPSE FARM,HATCHET LANE,BEAULIEU,,BROCKENHURST,HAMPSHIRE,SO42 7WA,1590612107,,1590612807,7771731047,,970,200
+545,P.G. & D.M.H.  CHICK,MANOR FARM,HANDLEY,,,SALISBURY,WILTSHIRE,SP5 5NU,1725552557,,,7971869372,david@davidchick.co.uk,8368,100
+546,T.E. ALLEN-STEVENS,C/O T.E. ALLEN-STEVENS,THE STABLES,WICKLESHAM LODGE,,FARINGDON,OXON,SN7 7PN,1367243562,,,7771518475,tom@wickleshamlodge.com,856,500
+547,CHURCH FARMS LTD,HIGH STREET,PORTON,,,SALISBURY,WILTSHIRE,SP4 0LX,1980611787,,,7850720381,jamesdean@churchfarms.com,158,"1,600.00"
+548,BLANCHARD FARMS,WOLFHALL FARM,BURBAGE,,,MARLBOROUGH,WILTSHIRE,SN8 3DP,1672810210,,1672811252,7971568911,blanchard@farmline.com,1181,300
+549,C.W. SMITH & SON,FAO: ALAN SMITH,KINGHAM HILL FARM,KINGHAM,,CHIPPING NORTON,OXON,OX7 6TE,1608658222,,1608658592,7767896323,cwsmithkhf@hotmail.co.uk,1545,"1,200.00"
+550,CONHOLT PARK,C/O JONATHAN SYKES,NEW ZEALAND FARM,UPPER CHUTE,,ANDOVER,HAMPSHIRE,SP11 6EU,1264730818,,,7885116936,js@nzfarm.co.uk,23381,800
+551,D.S.T.L.,C/O CHURCH FARMS LTD,HIGH STREET,PORTON,,SALISBURY,WILTSHIRE,SP4 0LX,1980614080,,,,,32759,"1,400.00"
+552,BEMERTON FARMS,THE FARTHINGS,THE COPSE,ALDERBURY,,SALISBURY,WILTSHIRE,SP5 3BL,,,,7850720381,jamesdean@churchfarms.com,84,"1,000.00"
+553,DOUGLAS MANN & SON,KNOWLE FARM,BOWERCHALKE,,,SALISBURY,WILTSHIRE,SP5 5BP,1722780451,,,7580762071,knowlefarm@btinternet.com,9074,200
+554,H.C. JONES & SON,HINTON MARSH FARM,BOURTON,,,SWINDON,WILTSHIRE,SN8 8JJ,1793790308,,,7971850661,,9062,200
+555,SANDHILL FARM PARTNERSHIP,SANDHILL FARM,SHRIVENHAM,,,SWINDON,WILTSHIRE,SN6 8BH,1793782227,,,,,7174,450
+556,FARLEY FARMS LTD,FARLEY,,,,SALISBURY,WILTSHIRE,SP5 1AD,,,,,jamesdean@churchfarms.com,25925,300
+557,J.W. & U.E. KNIGHT,HILLCREST FARM,UPPER WRAXALL,,,CHIPPENHAM,WILTSHIRE,SN14 7AG,122589509,,,7742819902,,9071,300
+558,F.S. BRAKE & SON,DILTON COURT,HISOMLEY,,,WESTBURY,WILTSHIRE,BA13 4DE,1373865327,1373832223,,7927008505,,9051,450
+559,M.A. & A.J. SHALLCROSS,WALLMEADS FARM,TISBURY,,,SALISBURY,WILTSHIRE,SP3 6RB,1747870094,,,7974140848,shallcross.wallmead@ukgateway.net,9080,100
+560,P.H. & L.C. JOWETT,NEW MANOR FARM,WINTERSLOW,,,SALISBURY,WILTSHIRE,SP5 1SE,1980862890,,1980863188,7743168492,nick@precisionf.plus.com,7603,"1,750.00"
+561,JENNINGS & SON,MARSH FARM,HILMARTIN,,,CALNE,WILTSHIRE,SN11 8TA,1249760244,,,7774876763,alan821jennings@btinternet.com,462,400
+562,D.G.J. TANNER,SOPLEY FARM,SOPLEY,,,CHRISTCHURCH,DORSET,BH23 7AZ,1425672451,,1425674100,7801345264,,839,150
+563,A.N. & J.H. TARGETT,ELEYS FARM,PORTON,,,SALISBURY,WILTSHIRE,SP4 0LH,1980611424,,,7754396157,,776,500
+564,BRENNAN FARMS LTD,THE GATE HOUSE,SHAFTESBURY ROAD,COMPTON CHAMBERLAYNE,,SALISBURY,WILTSHIRE,SP3 5DJ,1722785028,,,7584082832,brennanfarms@tiscali.co.uk,116,"1,170.00"
+565,A.H. CORP & SON,MANOR FARM,TYTHERINGTON,,,WARMINSTER,WILTSHIRE,BA12 7AD,1985840264,,,7976037545,peter.corp@btconnect.com,9056,600
+566,A.C. & P.J. HODDINOT,ASHEN COPSE FARM,COLESHILL,,,SWINDON,WILTSHIRE,SN6 7PU,1367240175,,,7817365093,tonyhoddinott@gmail.com,419,300
+567,W CUMBER & SON (THEALE) LTD,MANOR FARM,MARCHAM,,,ABINGDON,OXON,OX13 6NZ,1865391327,1865391840,,7980262208,mark.wiseman1@gmail.com,9057,"2,200.00"
+568,J.E. STRAINGE & SONS,DUCKINGTON FARM,COURSEHILL LANE,DUCKINGTON,,WITNEY,OXON,OX8 7YG,1993772175,,,7974785556,strainge@duckingtonfarm.co.uk,1363,230
+569,ALLAN LOCKYER & SON,MARSHWOOD FARM,DINTON,,,SALISBURY,WILTSHIRE,SP5 3ET,1722716334,1985850380,,7939246297,marshwood1@btconnect.com,9073,450
+570,BOWHILL BROS,BROADFIELD FARM,EAST GOMELDON,,,SALISBURY,WILTSHIRE,SP4 6NB,,,,7850720381,jamesdean@churchfarms.com,33595,270
+571,BIDDESDEN FARM PARTNERSHIP,BIDDESDEN FARM,,,,ANDOVER,HAMPSHIRE,SP11 9DN,1264790655,,1264790620,7836655960,biddesdenfarm@btinternet.com,9050,"2,770.00"
+572,S WALKER & SONS,ASTHALL FARM,,,,BURFORD,OXON,OX18 4HW,01993822026 (John),01993822330 (Ted),,7890065636,johnswalker45@btinternet.com,1746,200
+573,J.R. RIDDLE & SON,COBLEY FARM,EAST WOODYATES,,,SALISBURY,WILTSHIRE,SP5 5RH,1725552659,,,7836705597,cobleyfarm@hotmail.co.uk,9079,600
+574,DAMPNEYS LTD,PARLEY COURT FARM,HURN,,,CHRISTCHURCH,DORSET,BH23 6BB,1202572166,,,7831146217,,228,150
+575,F.C. COTTLE & SON,CHURCH FARM,STEEPLE ASHTON,,,TROWBRIDGE,WILTSHIRE,BA14 6EL,1380870518,,,7774245492,simoncottle.churchfields@btinternet.com,16058,60
+576,NORTH KENT FARM LTD,C/O DAVID FAWCETT,11 SADDLERS GROVE,BADSWORTH,,PONTEFRACT,YORKSHIRE,WF9 1PE,1985248495,1985248496,,,,594,50
+577,F.W.E. BURROUGHS SON,CLAY HILL FARM,CORSLEY,,,WARMINSTER,WILTSHIRE,BA12 7QT,1373832228,,,7974353633,david@agtrack.co.uk,1657,150
+578,D. DALTON & SON LTD,HORWOOD FARM,ANSTY,,,SALISBURY,WILTSHIRE,SP3 5SE,1747828210,,,7831459221,manorfarmyard@gmail.com,8495,250
+579,R.D. SHARP & PARTNERS,HOME FARM OFFICE,,,,SHELLINGFORD,OXON,SN7 7QP,1367710549,,,7771760549,robert.sharp@farmline.com,9081,175
+580,R.E. & H.J. SPENCER,MANOR FARM,NORTH BRADLEY,,,TROWBRIDGE,WILTSHIRE,BA14 0TW,1225753576,,,7941043814,robspencer1960@msn.com,9082,250
+581,MISS R.E. BRIGHT,LONGREACH,WINTERBOURNE DAUNTSEY,,,SALISBURY,WILTSHIRE,SP4 6EX,,,,7850720381,jamesdean@churchfarms.com,7857,50
+582,A PARSONS & SONS,UPPER FARM HOUSE,MILSTON,DURRINGTON,,SALISBURY,WILTSHIRE,SP4 8HR,,,,,parsonsfarming@yahoo.co.uk,606,250
+583,SJ KENNARD ,FORDE ABBEY ESTATE,,,,CHARD,SOMERSET,TA20 4LU,1460220231,,,7899927174,julian@fordeabbey.co.uk,10997,250
+584,MANORFARMPARTNERSHIP-LowerWoodford,THE STUDIO,LOWER WOODFORD,,,SALISBURY,WILTSHIRE,SP4 6NQ,1722782207,1722782626,,7850841231,sales@greenlinkforestry.co.uk ,1562,400
+585,W.H.H. TAYLOR,HARTHAM FARM,,,,CORSHAM,WILTSHIRE,SN13 0PZ,1249713250,,,7966248588,whhtaylor@callnetuk.com,7242,"1,000.00"
+586,BRYCES FARM LTD,BRYCES FARM,SHERFIELD ENGLISH,,,ROMSEY,HAMPSHIRE,SO51 6FX,,,,7831264412,,126,250
+587,HAMPSHIRE GRAIN LTD,,,,,,,,1962774420,7765234470,,,info@hampshire-grain.co.uk,,
+588,G.E. READ ESQ,SANDHILL FARM,LONGBRIDGE DEVERALL,,,WARMINSTER,WILTSHIRE,BA12 7DW,1985840296,,,7713321564,grahamread@live.co.uk,8243,400
+589,NATURAL ENGLAND,CHERRY LODGE,SHREWTON,,,SALISBURY,WILTSHIRE,SP3 4ET,,,,,roger.griffin@naturalengland.org.uk,10838,100
+590,RICHARD GUY,EAST HILL FARM,HEYTESBURY,,,WARMINSTER,WILTSHIRE,BA12 0NR,1988840731,,1988841005,7768994607,gilly@gm-7.co.uk,372,250
+591,H.N. & R.M. COOMBS,SILLENS FARM,BLANDFORD ROAD,COOME BISSETT,,SALISBURY,WILTSHIRE,SP5 4LN,1722718357,,,,,930,100
+592,WINDWHISTLE FARM LTD,C/O BRYCES FARM LTD,SHERFIELD ENGLISH,,,ROMSEY,HAMPSHIRE,SO51 6FX,,,,7831264412,,867,25
+593,D.O. KYTE & SON,KYTES LODGE,SYCAMORE COTTAGE FARM,TILSHEAD,,SALISBURY,WILTSHIRE,SP3 4SF,,,,7779913571,james.kyte@hotmail.com,478,950
+594,S.W. PARSONS (FARMS),FRIARS ORCHARD,RECTORY HILL,WEST DEAN,,SALISBURY,WILTSHIRE,SP5 1JL,1794340542,,,7713793097,swparsons_farms@hotmail.com,21379,350
+595,SOUTHERN GRANUARY SERVICES,,,,,,,,,,,,,,
+596,BJ & SG FARMING,ELM LODGE,58 CHESTNUT SPRINGS,LYDIARD MILLICENT,,SWINDON,WILTSHIRE,SN5 3NB,,,,,mhnurseries@yahoo.co.uk,39355,200
+597,W.S. HARDING & SON,CHARDFORD MANOR,BREAMORE,,,FORDINGBRIDGE,HAMPSHIRE,SP6 2OS,,,,7831312211,will@wickfarm.co.uk,1659,500
+598,ST JUST FARMS LTD,HOMINGTON FARM,HOMINGTON,,,SALISBURY,WILTSHIRE,SP5 4NG,1722718555,,,7881654845,homington@hotmail.co.uk,760,600
+599,SPRING HILL FARM,HIGH COGGES,,,,WITNEY,OXON,OX29 6UL,1993704919,,,,,31067,200
+600,WINCHESTER COLLEGE(Shrewton),C/O R.P. LOXTON,WYKE FARM,,,SHERBORNE,DORSET,DT9 6SL,1935423492,,,7831723217,,30626,"1,000.00"
+601,R M & W J DICKSON,WICK FARM,DOWNTON,,,SALISBURY,WILTSHIRE,SP5 3NH,,,,7831312211,williamdickson@btinternet.com,25942,200
+602,E.W. CONTRACTING LTD,C/O EAST WICK FARM,WOOTTON RIVERS,,,MARLBOROUGH,WILTSHIRE,SN8 4NS,,,,,,31949,990
+603,MESSRS C.R. STRAINGE,PEASHELL FARM,CURBRIDGE,,,WITNEY,OXON,OX29 7NZ,,,,,,,
+604,W.G. FRY & SON,TOTTERDALE FARM,TISBURY,,,SALISBURY,WILTSHIRE,SP3 6RS,1747870292,,,7778844108,matt@totterdalefarm.co.uk,312,200
+605,D.J. & R.D. GREASBY,HIGHLANDS FARM,BRIGHTWELL-CUM-SOTWELL,,,WALLINGFORD,OXON,OX10 0QX,1491836943,,,7905701857,dgreasby@btinternet.com,1243,530
+606,B.A. RUSSELL & SON,LOWER BARN FARM,HORNINGSHAM,,,WARMINSTER,WILTSHIRE,BA12 7SL,,,,7780601914,andrewrussellfarmer@googlemail.com,690,260
+607,C.G. LANGDON (PARTNERSHIP),SALTERTON FARM,DURNFORD,,,SALISBURY,WILTSHIRE,SP4 6HL,1722782431,,,7977594449,slangdon@btconnect.com,485,600
+608,ORAM & SONS,MANOR FARM,ALLINGTON,,,DEVIZES,WILTSHIRE,SN10 3NN,1380860223,7786080362,,7748587038,farmoffice@oramandsons.co.uk,32404,950
+609,WILLIAM H PELLY,PELLY FARMS,OLD RECTORY,SHERRINGTON,,WARMINSTER,WILTSHIRE,BA12 0SN,,,,,,10942,250
+610,A.W. NEISH,RODMEAD FARM,MAIDEN BRADLEY,,,WARMINSTER,WILTSHIRE,BA12 7HR,1985844689,,,7793810335,awn@farmline.com,578,350
+611,PETER LAMB LTD,KNIGHTON MANOR FARM,BROADCHALKE,,,SALISBURY,WILTSHIRE,SP5 5EB,1722781036,,,,,1035,"2,000.00"
+612,KING HALL FARM PARTNERSHIP,C/O EAST WICK FARM,WOOTTON RIVERS,,,MARLBOROUGH,WILTSHIRE,SN8 4NS,,,,,eastwick@farmline.com,28529,400
+613,E.F. HUNTLEY & SON,MANOR FARM,GREAT WISHFORD,,,SALISBURY,WILTSHIRE,SP2 0PG,1722790296,,,7831393350,huntleyag@aol.com,444,250
+614,LYELL W FAIRLIE,STOWESDOWN FARM,WEST TYTHERLY,,,SALISBURY,WILTSHIRE,SP5 1LD,1794340076,,,7836296900,lfairlie@romfield.co.uk,1010,300
+615,CRUX EASTON FARMS,C/O NICK ROWSELL,WEST STOKE FARM,STOKE CHARITY,,WINCHESTER,HAMPSHIRE,SO21 3PN,1264736718,1962760220,,7802829909,nickrowsell@btconnect.com,202,300
+616,THE HON MRS ASSF MORRISON,MANOR FARM,WEDHAMPTON,,,DEVIZES,WILTSHIRE,SN10 3QE,,,,,farmoffice@oramandsons.co.uk,34312,700
+617,ROOKHAYE ESTATE,BUTTS COTTAGE,BOWERCHALKE,,,SALISBURY,WILTSHIRE,SP5 5BE,1722780550,,,7974789199,,1235,348
+618,P.B. PEPLER & SON,BALLARDS FARM,EDINGTON,,,WESTBURY,WILTSHIRE,BA13 4PJ,1380830248,,,7910228383,ppepler@hotmail.co.uk,32887,350
+619,M.J. MATTHEWS,BUCKHOLT FARM,WEST TYTHERLEY,,,SALISBURY,WILTSHIRE,SP5 1LS,1980863829,,,7711006601,michaelelm@easy.com,33084,500
+620,THE KINCH PARTNERSHIP LLP,BUSCOT WICK FARM,BUSCOT WICK,,,FARINGDON,OXON,SN7 8DJ,,,,,philkinch@yahoo.co.uk,33117,800
+621,D.H.S & I.M. LEIGH,COOMBE HOUSE,"SUTTON FARM,  CADLEY ROAD",COLLINGBOURNE DUCIS,,MARLBOROUGH,WILTSHIRE,SN8 3EA,1264850862,,,7979697559,patricialeigh1@hotmail.com,9749,500
+622,CURBRIDGE D.F. PARTNERSHIP,CURBRIDGE DOWNS FARM,BURFORD ROAD,MINSTER LOVELL,,WITNEY,OXON,OX29 0RD,,,,,curbridgedowns@yahoo.co.uk,23328,300
+623,J.E. & S.A. GRAY,WONSTON MANOR FARM,SUTTON SCOTNEY,,,WINCHESTER,HAMPSHIRE,SO21 3PD,1962760204,,,7854504185,gray.wonstonmanor@gmail.com,33580,300
+624,W.B. GAUNTLETT,BRIMSLADE FARMHOUSE,WOOTTON RIVERS,,,MARLBOROUGH,WILTSHIRE,SN8 4NG,,,,,gauntlett1@btconnect.com ,21328,100
+625,A.J. & L.P. BIDDULPH,MANOR FARM,TARLTON,,,CIRENCESTER,GLOUCESTERSHIRE,GL7 6PA,,,,7973500854,ajbiddulph@btinternet.com,16212,800
+626,KEMBLE FARMS LTD,THE ESTATE OFFICE,KEMBLE,,,CIRENCESTER,GLOUCESTERSHIRE,GL7 6AB,1285770308,,,7973500854,office@kemblefarms.co.uk,15723,"1,000.00"
+627,JACK BAKER LTD,BUSTARD FARM,EAST MARTIN,,,FORDINGBRIDGE,HAMPSHIRE,SP6 3LJ,,,,7989020189,,50,350
+628,A & R DAVEY,LOWER FARM,SWYNCOMBE,,,HENLEY-ON-THAMES,OXON,RG9 6ED,1491641755,,,7710588408,rdavey@farming.co.uk,9655,"1,250.00"
+629,W.J. MILLER & SONS LTD,SOPERS FARM,UPTON,,,ANDOVER,HAMPSHIRE,SP11 0JW,1264730206,,,7979503401,sjdmiller@btinternet.com,554,600
+630,J.S. WHITTLE & SON,DOGDEAN FARM,HOMINGTON,,,SALISBURY,WILTSHIRE,SP5 4NR,,,,7971476675,james@dogdean.freeserve.co.uk,1616,"1,000.00"
+631,F.N. HUES & SONS LTD,CLIFF FARM,ALL CANNINGS,,,DEVIZES,WILTSHIRE,SN10 3NY,1380860295,,,7812186640,james@fnhues.co.uk,29419,616
+632,JANE WINGATE-SAUL,C/O LODGE FARM,BROAD CHALKE,,,SALISBURY,WILTSHIRE,SP5 5LU,,,,7831103062,michael@lodgefarmhouse1.plus.com,34891,300
+633,J.H. & P.J. SWANTON,MANOR FARM,SOUTH NEWTON,,,SALISBURY,WILTSHIRE,SP2 0QD,,,,7970415824,millfarmcottages@aol.com,16009,500
+634,S.W. COLLISS & SON,EGBURY CASTLE FARM,ST MARY BOURNE,,,ANDOVER,HAMPSHIRE,SP11 6DR,1264738327,,,7546224824,leroy.colliss@gmail.com,24789,450
+635,BINLEY FARMS,SLADEN GREEN,BINLEY,,,ANDOVER,HAMPSHIRE,SP11 6HA,1264738229,,,7774227439,maclay@sladengreen.co.uk,92,400
+636,P.I. & M.J. HELME,MOUNT ORLEANS FARM,COLLINGBOURNE DUCIS,,,,WILTSHIRE,SN8 3EF,,,,7341885992,,34953,"1,500.00"
+637,E.W. & C.A. CROSS,QUERNS PEICE FARM,PINKNEY,,,MALMESBURY,WILTSHIRE,SN16 0PA,,,,7836571217,,15750,200
+638,H.N. HOOPER & SONS,CORNBURY FARM,WEST LAVINGTON,,,DEVIZES,WILTSHIRE,SN10 4ND,1380813575,,,7702331305,hnhooper1@aol.com,16090,650
+639,R.J. ELLIOTT & SON,NORTH FARM,NORTON BAVANT,,,WARMINSTER,WILTSHIRE,BA12 0EP,1985215368,,,7977492022,andy-sue-northfarm@hotmail.co.uk,19706,300
+640,STANDEN FARM PARTNER,FOSGATE HOUSE,UPPER CHUTE,,,ANDOVER,HAMPSHIRE,SP11 9EW,1264730870,,,7900826163,,4470,100
+641,C.A. BENNETT & SON,BLUEBELL FARM,PENTON GRAFTON,,,ANDOVER,HAMPSHIRE,SP11 0RR,1264772341,,,7836383445,bluebellfarm@talk21.com,1711,520
+642,M & R HOISER,BORELAND FARM,UPPER WOODFORD,,,SALISBURY,WILTSHIRE,SP4 6PA,,,,,,23466,250
+643,L.J. & A.A. RICE,BISHOPSTROW FARM,,,,WARMINSTER,WILTSHIRE,BA12 9HH,1985212284,,,7774216911,mail@bishopstrow.farm,668,350
+644,HERON DOWN FARM,STOKE,,,,ANDOVER,HAMPSHIRE,SP11 0NU,1962760220,,,7802829909,nickrowsell@btconnect.com,36392,348
+645,S.J.V. FAUX FARMS,CULLEYS FARM,CLENCH COMMON,,,MARLBOROUGH,WILTSHIRE,SN8 4NZ,1672513102,,,,,19708,200
+646,N & D SHEPPARD LTD,BALTIC FARM,BISHOPS CANNINGS,,,DEVIZES,WILTSHIRE,SN10 2LN,,,,7814032027,mark@balticfarm.co.uk,8316,200
+647,SIMON D.D. BENNETT,WEXLAND FARM,NETHERAVON,,,SALISBURY,WILTSHIRE,SP4 9RF,1980670370,,,7516150053,wex.bennett@btinternet.com,22990,160
+648,D.B. & H.J. BROOKSBANK,KIMPTON DOWN FARM,KIMPTON DOWN,,,ANDOVER,HAMPSHIRE,SP11 8PQ,1264772467,,,7956385704,bberic@talk21.com,121,300
+649,M.A. HOPPE,HOUGOUMONT FARM,COLLINGBOURNE DUCIS,,,SALISBURY,WILTSHIRE,SP4 9DB,,,,,mikehoppe@btinternet.com,36847,"2,200.00"
+650,PERTWOOD MANOR FARM,C/O STRUTT & PARKER,41 MILFORD STREET,,,SALISBURY,WILTSHIRE,SP1 2BP,01722    328741,,,7889743066,a.wfraser@btopenworld.com,34353,600
+651,MAPPOWDER COURT FARM PARTNERSHIP,C/O STRUTT & PARKER,41 MILFORD STREET,,,SALISBURY,WILTSHIRE,SP1 2BP,1722328741,,,788107266,simon.butcher@struttandparker.com,37684,600
+652,DOLPHIN FARMS LIMITED,RICHARD SHARLAND,WOOLLEY & WALLIS,51-61 CASTLE STREET,,SALISBURY,WILTSHIRE,SP1 3SU,1722424524,,,,r.sharland@w-w.co.uk,21305,150
+653,JOSHUA HOSIER & SON LTD,RIVAR FARM,SHALBOURNE,,,MARLBOROUGH,WILTSHIRE,SN8 3RL,1488668223,,,7775870414,joshua.hosier@me.com,1642,650
+654,WHISTLEY,CLIFF FARM,ALL CANNINGS,,,DEVIZES,WILTSHIRE,SN10 3NY,,,,,,37896,200
+655,ROLLESTONE LTD,ELSTON HILL FARM,SHREWTON,,,SALISBURY,WILTSHIRE,SP3 4HR,,,,,george.smith@gsh.demon.co.uk,38071,750
+656,BLACKLAND PARK ESTATE FARMS,C/O DOUGLAS GREEN CONSULTING,HARTHAM PARK,HARTHAM LANE,,CORSHAM,WILTSHIRE,SN13 0RP,1666817278,,,7970942666,douglas@douglasgreenconsulting.co.uk,38959,175
+657,I.J.E. CURRY,SNODDINGTON MANOR FARM,SNODDINGTON LANE,SHIPTON BELLINGER,,TIDWORTH,HAMPSHIRE,SP9 7YB,1962763900,,,7748770660,icurry@bcm.co.uk,10632,700
+658,RAU FARMS(Shrewton),TOM OVERBURY,ROYAL AGRICULTURAL UNIVERSITY,STROUD ROAD,,CIRENCESTER,GLOUCESTERSHIRE,GL7 6JS,,,,,tom.overbury@rau.ac.uk,8826,30
+659,RIDGEWAY GRAIN LTD(Shrewton),,,,,,,,,,,,,,0
+660,RW & RG GALE,REEVES FARM,BRATTON,,,WESTBURY,WILTSHIRE,BA13 4SA,1380830753,,,7825232393,reevesfarm@tiscali.co.uk,39095,260
+661,WILLOWDENE FARM,WILLOWDENE FARM,CHARLTON ST PETER,,,PEWSEY,WILTSHIRE,SN9 6EU,1980630791,,,7790009095,timfowle@aol.com,34547,120
+662,EH COSSINS & MRS WOODS,T/A MADDINGTON FARMS,THE GRANGE,SHREWTON,,SALISBURY,WILTSHIRE,SP3 4JL,1980620945,,,7711740211,,39457,200
+663,MANOR FARM PARTNERSHIP - ASHMORE,C/O BCM,THE OLD DAIRY,WINCHESTER HILL,,SUTTON SCOTNEY,HAMPSHIRE,SO21 3NZ,1747811974,,,7748770660,icurry@bcm.co.uk,39415,340
+664,BRUCE DEAN FARMING,WEST FARM,WEST GOMELDON,,,SALISBURY,WILTSHIRE,SP4 6JU,,,,7768097432,jamesdean@churchfarms.com,1333,200
+665,PENHILL FARM LTD,C/O RODMEAD FARM,MAIDEN BRADLEY,,,WARMINSTER,WILTSHIRE,BA12 7HP,,,,,,18069,600
+666,STONOR FARMS,C/O TITHE BARN,RUSSELLS WATER,,,HENLEY-ON-THAMES,OXON,RG9 6EU,1491641871,,,7768628798,,39791,87
+667,AS GARRETT,MANOR FARM,DROVE LANE,COOMBE BISSETT,,SALISBURY,WILTSHIRE,SP5 4LD,1722718372,,,,,1755,29
+668,MRS J.J. BOUSKELL,THE COTTAGE,WEST PARK,ROCKBOURNE,,FORDINGBRIDGE,HAMPSHIRE,SP6 3JB,1725518356,,,,farming@bouskell.net,37852,100
+669,J&J Bown,Bassetts Farm,Steventon,,,Basingstoke,Hampshire,RG25 3BJ,07785 793074,01256 397389,,,,,
+670,WG& T Brock,Manor Farm,West Worldham,,,Alton,Hampshire,GU34 3BD,07799 112271,01420 82107,,,,,
+671,Robeys Farm Limited,Moundsmere,Preston Candove,,,Basingstoke,Hampshire,,01256 389253,,,,,39285,900
+672,Blackwood Farming Company Limited,c/o Simon Blanford,Savills,1 Jewry Street,,Winchester,Hampshire,SO23 8RZ,353 52 6130200,,,,tgleeson@coolmore.ie,40509,"1,750.00"
+673,Blackwood Farming Company Ltd,c/o Simon Blandford,Savill's,1 Jewry Street,,Winchester,Hampshire,SO23 8RZ,,,,,,,"1,750.00"
+674,Openfield Agricultural Ltd(Shrewton),,,,,,,,,,,,,23123,"7,776.00"
+675,F Conisbee & Son Farming LLP,Park Corner,Ockham South,,,East Horsley,Surrey,KT24 6RZ,1483282073,,,77687835690,info@fconisbee.com,,250
+676,A.E. GEORGE & SONS LTD,LIVESTOCK & GENERAL HAULIERS,BREWHAM ROAD DEPOT,,,BRUTON,SOMERSET,BA10 0JH,,,,,,,0
+677,ALLEN JAMES,HAY & STRAW MERCHANT,WESSEX FARM,SHERBOURNE CAUSEWAY,SHAFTSBURY,,DORSET,SP7 9PX,,,,,,,0
+678,JOHN DORSE LTD,PITT FARM,UFFCULME,,,CULLOMPTON,DEVON,EX15 3BY,,,,,,,0
+679,WESSEX WATER SERVICES,TRANSPORT DEPARTMENT,LITTLE CANFORD DEPOT,HAM LANE,,WIMBORNE,DORSET,BH21 7LR,,,,,,,0
+680,J & M BODMAN,KNIGHTLEAZE FARM,CUCKOO CORNER,URCHFONT,,DEVIZES,WILTSHIRE,SN10 4RA,,,,,,,0
+681,D.N. CROFTS & SON,HIGHER HOLTON FARM,HIGHER HOLTON,,,WINCANTON,SOMERSET,BA9 8AP,,,,,,,0
+682,TREVOR SANDIFORD LIMITED,MEADE FARM,NEW ROAD,EAST HUNTSPILL,,HIGHBRIDGE,SOMERSET,TA9 3PU,,,,,,,0
+683,ALEXANDER MCKIE,NEW HOUSE FARM,EAST CHISENBURY,,,PEWSEY,WILTSHIRE,SN9 6AW,,,,,,,0
+684,B BUCKINGHAM & SONS LTD ,LODGE FARM,BARNARD GATE ,,,WITNEY,OXON ,OX296XE,,,,,,,0
+685,T. CLEEVES & SONS LTD,GLANUSK,SCHOOL ROAD,,,WRINGTON,BRISTOL,BS40 5NB,,,,,,,0
+686,AR TUCKER LIMITED,FAIR VIEW FARM,LUPPITT,,,HONITON,DEVON,EX14 4RY,,,,,,,0
+687,A.R. GANE & SON,WHITE LAKE FARM,WEST PENNARD,,,,SOMERSET,,,,,,,,0
+688,GEORGE SMITH HORSEBOXES,ELSTON HILL FARM,,,SHREWTON,NR SALISBURY,WILTSHIRE,SP3 4HR,1980620158,,1980621164,,,,0
+689,J HERITAGE,POOLE FARM,EAST WOODLANDS,,,FROME,SOMERSET,,37362804,,,,,,0
+690,M.G. MANSBRIDGE,STATION VIEW FARM,,,GRATELEY,ANDOVER,,SP11 7EG,1264889219,,,,,,0
+691,PIC UK,ALPHA BUILDING,LONDON ROAD,NANTWICH,,,,CW57JW,1270616710,,1270616702,,,,0
+692,MICHAEL PIDSLEY,THE DEVONSHIRE STRAW MAN,SOUTH HAYES FARM,LONG LANE,DUNKESWELL,HONITON,DEVON,EX14 4QN,1404841525,,1404841622,7768883300,,,0
+693,F Conisbee & Farming LLP,Park Corner,Ockham South,,,East Horsley,Surrey,KT246RZ,1483282073,,,77687835690,info@fconisbee.com,25573,
+694,P M Sutcliffe,Estate Office,Burntwood Farm,Martyr Worthy,,Micheldever,Hampshire,SO21 1AF,19627321260,,,7774655672,tim@upton-park.co.uk,,
+695,B C Roe & Son,Hut Lodge Farm,Broad Chalke,,,Salisbury,Wiltshire,SP55LU,,,,7831103062,njroe99@gmail.com,,0
+696,Phil Candy,3 Grange Park Mobile Homes,Shamblehurst Lane,Hedge End,,Southampton,,SO302AT,1489786676,,7836386477,,,PCandy,0
+697,Charles Jackson,White Barn ,Station Road,,,Long Buckby,Northants,NN6 7QA,1327843422,,,,,,
+698,G W Topham & Son,North East Farm,Cambridge Road,,,Eltisley,Cambridgeshire,PE19 6TR,01954 7199283,,,,,,
+699,Gerard Griffin,West Wick Farm,,,,Pewsey,Wiltshire,SN9 5JZ,,,,7830378936,robert@robertserjeant.co.uk,40724,0
+700,W CUMBER & SON ,MANOR FARM,MARCHAM,,,ABINGDON,OXON,OX13 6NZ,1865391327,1865391840,,7980262174,mark.wiseman1@gmail.com,,
+701,W CUMBER&SON ,LYFORD GRANGE,LYFORD,,,ABINGDON,OXON,OX120EQ,1865391327,1865391840,,7980262174,mark.wiseman1@gmail.com,,
+702,Martyn Baker & Son Livestock Specialists,Holbrook Collection Centre,Sampford Peverell,,,Tiverton,Devon,EX16 7EN,1884821444,,,7976901708,"info@martynbakerlivestock,com",,0
+703,S Walker&Son,Flat Farm,Swinbrook,,,Burford,Oxon,OX184ES,,,John for loadin,7890065636,,,
+704,JMC,,,,,,,,,,,,,,
+705,G Jones & Son,Doleiddan,Nantcaredig,,,,Carmarthan,SA327LY,,,,7980645695,,,0
+706,TRINITY GRAIN LTD,,,,,,,,,,,,,,0
+707,Charlie Peploe 1,Idston Farm,Ashbury,,,Swindon,Wiltshire,SN68LL,1793710266,,,7766007722,cpeploe@idstonefarm.co.uk,,
+708,A.J & L.P. BIDDULPH,MANOR FARM,TARLTON,,,CIRENCESTER,GLOUCESTERSHIRE,GL7 6PE,,,,7973500854,ajbiddulph@btinternet.com,,
+709,Henry Stanley,New Farm,Pitton ,,,Salisbury,Wiltshire,SP5 1EG,,,,,,,
+710,JMC Agricultural Contractors,Hedgerows,Balmalcolm,,,Cupa,Fife,KY15 7TJ,,,,7801010772,jmc.john.m@googlemail.com,,
+711,Watkins Haulage,Gillow Farm,Harewood End,,,,Hereford,HR2 8LE,1989730642,,,7980567954,gareth@gillowfarm.co.uk,,
+712,ALEC CASSELS,REAR OF ROLLESTON CAMP,,,,SHREWTON,,SP3 4DU,01980 621 701,,,,alec@aleccassels.com,,
+713,Trinity Gain Double Use,,,,,,,,,,,,,,0
+714,HOWARD & SONS EXPORTS LTD,MANOR FARM,MARSTON,,,DEVIZES,WILTSHIRE,SN10 5SQ,01380 723 986 ,,01380 730 600,07890 558 43,,,0
+715,WINDELL FARMING,NICK WINDELL,THE BUNGALOW,RYEDOWN LANE,EAST WELCOW,ROMSEY,HANTS,SO51 6BD,,,,7947973003,nick@moorcourtgroup.co.uk,,32
+716,Guy Hildred Partnership,Icknield Farm,Ipsden,,,Wallingford,Oxon,OX10 6AS,07768 627012,01491 681580,,,guy@hildred.net,9657,0
+717,Trinity Grain Long Pool,,,,,,,,,,,,,,0
+718,EJ Allen,Holme Farm,,,,,,,,,,,,,0
+719,Farmcare/ Foxhill,Ridgeway Farm,Foxhill,,,,,,1793750446,7753929275,,,james.taylor@farmcareltd.co.uk,,
+720,Trinity Grain Direct Pricing,,,,,,,,,,,,,,0
+721,Alec B Story,Bracken House Farm,Common Road,Barlow,,Selby,N.Yorks,Y08 8GF,1757618326,,,,,,0
+722,Nick Windell,The Bungalow,Ryedown Lane,East Wellow,,Romsey,Hampshire,SO51 6BD,7947973003,,,,nick@moorcourtgroup.co.uk,,32
+723,CMC,Fordtom Mills,,,,Crediton,Devon,EX17 3DH,13637622212,,,,CMC@creditionmilling.co.uk,,
+724,NJB,,,,,,,,,,,,,,
+725,Dingemans,,,,,,,,,,,,,,
+726,Lord Northbrook,Stratton Estates,Woodlands House,,,Bramdean,Hampshire,SO240HW,,,,,,32951,0
+727,M Roper Esq,Ford Abbey Estate,,,,Chard,Somerset,,,,,,,,250
+728,Conway Bailey Transport,Venayr,Goonearl,Scorrier,,Redruth,Cornwall,TR16 5EB,1209820283,,,,,Conway Bailey Transport,
