@@ -1,25 +1,50 @@
 <?php
 
-//  Require Config and Composer Autoload file
-require_once(dirname(__FILE__) . "/resources/config.php");
-require_once(AUTOLOAD);
-
-//Load in all required classes
+/*
+|--------------------------------------------------------------------------
+| File includes and setup
+|--------------------------------------------------------------------------
+*/
+//Require all classes from directory
 spl_autoload_register(function ($class_name) {
-  require_once './resources/classes/' . $class_name . '.class.php';
+  require_once './classes/' . $class_name . '.class.php';
 });
 
-//Initialise authentication
+//Require Composer autoloader
+require_once './vendor/autoload.php';
+
+//Include all resources files
+foreach (glob("resources/*.php") as $filename)
+{
+    require_once $filename;
+}
+/*
+|--------------------------------------------------------------------------
+| Setup variabless
+|--------------------------------------------------------------------------
+*/
 $auth = new \Delight\Auth\Auth(DB::connect());
 
-    $variables = array(
-        'pageTitle' => "Movements",
-        'auth' => $auth,
-    );
+/*
+|--------------------------------------------------------------------------
+| File functionality
+|--------------------------------------------------------------------------
+*/
+
+
 
 
     if ($auth->isLoggedIn()) {
+      $userInfo = getUserInfo($auth);
+
+      $variables = array(
+          'pageTitle' => "Movements",
+          'auth'=> $auth,
+          'account' => $userInfo->activeAccount(),
+          'userInfo' => $userInfo
+      );
         Template::render("movements", $variables);
+
     } else{
         header("Location: login.php");
     }

@@ -1,17 +1,36 @@
 <?php
-  require_once(dirname(__FILE__) . "/resources/config.php");
-  require_once(AUTOLOAD);
-
+  /*
+  |--------------------------------------------------------------------------
+  | File includes and setup
+  |--------------------------------------------------------------------------
+  */
+  //Require all classes from directory
   spl_autoload_register(function ($class_name) {
-    require_once './resources/classes/' . $class_name . '.class.php';
+    require_once './classes/' . $class_name . '.class.php';
   });
+
+  //Require Composer autoloader
+  require_once './vendor/autoload.php';
+
+  //Include all resources files
+  foreach (glob("resources/*.php") as $filename)
+  {
+      require_once $filename;
+  }
+
+  /*
+  |--------------------------------------------------------------------------
+  | File functionality
+  |--------------------------------------------------------------------------
+  */
+  $error = '';
+
   $auth = new \Delight\Auth\Auth(DB::connect());
   if ($_SERVER['REQUEST_METHOD'] === 'POST') {
 
-
-
     try {
         $auth->login($_POST['email'], $_POST['password']);
+
         header("Location: index.php");
     }
     catch (\Delight\Auth\InvalidEmailException $e) {
@@ -27,11 +46,12 @@
         $error = "There has been an error, please try again later";
     }
   }
-
+  $userInfo = getUserInfo($auth);
   $variables = array(
       'pageTitle' => "Home",
       'auth'=> $auth,
-      'error' => $error
+      'error' => $error,
+      'userInfo' => $userInfo
   );
 
   if ($auth->isLoggedIn()) {

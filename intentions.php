@@ -1,21 +1,42 @@
 <?php
-  //  Require Config and Composer Autoload file
-  require_once(dirname(__FILE__) . "/resources/config.php");
-  require_once(AUTOLOAD);
+/*
+|--------------------------------------------------------------------------
+| File includes and setup
+|--------------------------------------------------------------------------
+*/
+//Require all classes from directory
+spl_autoload_register(function ($class_name) {
+  require_once './classes/' . $class_name . '.class.php';
+});
 
-  //Load in all required classes
-  spl_autoload_register(function ($class_name) {
-    require_once './resources/classes/' . $class_name . '.class.php';
-  });
+//Require Composer autoloader
+require_once './vendor/autoload.php';
 
-  //Initialise authentication
-  $auth = new \Delight\Auth\Auth(DB::connect());
+//Include all resources files
+foreach (glob("resources/*.php") as $filename)
+{
+    require_once $filename;
+}
+/*
+|--------------------------------------------------------------------------
+| Setup variabless
+|--------------------------------------------------------------------------
+*/
+$auth = new \Delight\Auth\Auth(DB::connect());
 
-  if ($auth->isLoggedIn()) {
+/*
+|--------------------------------------------------------------------------
+| File functionality
+|--------------------------------------------------------------------------
+*/
+
+if ($auth->isLoggedIn()) {
+  $userInfo = getUserInfo($auth);
     //If User logged in
     $variables = array(
       'pageTitle' => "Intentions",
-      'auth' => $auth
+      'auth' => $auth,
+      'userInfo' => $userInfo
     );
     Template::render("intentions", $variables);
   } else{
