@@ -1,3 +1,4 @@
 /vendor/
 /admin/
 /pages/admin/
+/classes/DB.class.php
