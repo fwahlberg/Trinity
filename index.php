@@ -10,7 +10,7 @@ spl_autoload_register(function ($class_name) {
   require_once './classes/' . $class_name . '.class.php';
 });
 
-//Require Composer autoloader
+//Require Composer autoloade
 require_once './vendor/autoload.php';
 
 //Include all resources files
