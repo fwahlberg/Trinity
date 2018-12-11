@@ -12,7 +12,6 @@ class Report {
 
   public function __set($name, $value) {
 
-        echo "Set:$name to $value";
         $this->$name = $value;
     }
 

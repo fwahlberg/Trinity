@@ -1,18 +1,42 @@
-<nav class="navbar navbar-expand-lg navbar-light bg-light topbar">
-
+<nav class="navbar navbar-expand-xl navbar-light bg-light topbar">
  <button class="navbar-toggler" type="button" data-toggle="collapse" data-target="#navbarSupportedContent" aria-controls="navbarSupportedContent" aria-expanded="false" aria-label="Toggle navigation">
-   <span class="navbar-toggler-icon"></span>
+   <span class="fa fa-bars"></span>
  </button>
 
  <div class="collapse navbar-collapse" id="navbarSupportedContent">
+   <?php
+   if ($auth->isLoggedIn()) {
+     ?>
    <ul class="navbar-nav mr-auto">
-     <li class="nav-item active">
-       <a class="nav-link" href="#"><?php echo $auth->getUsername(); ?> <span class="sr-only">(current)</span></a>
+     <!-- <li class="nav-item active">
+       <a class="nav-link" href="#"> <span class="sr-only">(current)</span></a>
+     </li> -->
+     <li class="nav-item d-xl-none <?php echo ($pageTitle == "Home" ? "active" : "")?>">
+         <a href="/" class="nav-link">Home</a>
+     </li>
+
+     <li class="nav-item d-xl-none <?php echo ($pageTitle == "Movements" ? "active" : "")?>">
+         <a href="movements.php" class="nav-link">Movements</a>
+     </li>
+
+     <li class="nav-item d-xl-none <?php echo ($pageTitle == "Reports" ? "active" : "")?>">
+         <a href="reports.php" class="nav-link">Grade Reports</a>
+     </li>
+
+     <li class="nav-item d-xl-none <?php echo ($pageTitle == "Intentions" ? "active" : "")?>">
+         <a href="intentions.php" class="nav-link">Intentions</a>
+     </li>
+
+     <li class="nav-item d-xl-none">
+         <a href="logout.php" class="nav-link">Log out <i class="fas fa-sign-out-alt"></i></a>
      </li>
    </ul>
+   <span class="navbar-text mr-5">
+        <?php echo $auth->getUsername(); ?>
+    </span>
    <form class="form-inline my-2 my-lg-0" method="POST" action="/changeAccount.php">
-     <!-- <input class="form-control mr-sm-2" type="search" placeholder="Search" aria-label="Search"> -->
-     <select class="form-control mr-sm-2" id="selectClient" name="client" method="POST" action="/changeAccount.php">
+
+     <select class="form-control mr-sm-2" id="selectClient" name="client" onchange="this.form.submit()" >
        <?php
        if($auth->isLoggedIn()) {
        $i = 0;
@@ -30,8 +54,8 @@
        ?>
      </select>
      <input type="hidden" name="current_url" value="<?php echo $_SERVER['PHP_SELF']; ?>" />
-     <button class="btn btn-outline-primary my-2 my-sm-0" type="submit">Select</button>
    </form>
+ <?php } ?>
  </div>
 
 

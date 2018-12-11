@@ -1,5 +1,5 @@
 <!-- Sidebar  -->
-<nav id="sidebar">
+<nav id="sidebar" class="d-none d-xl-block">
     <div class="sidebar-header">
         <!-- <h3>Blackcat Web Portal</h3> -->
         <a href="/">
@@ -27,6 +27,7 @@
         <li<?php if($pageTitle == "Intentions") { ?> class="active" <?php }?>>
             <a href="intentions.php">Intentions</a>
         </li>
+
 
         <!-- <li <?php if($pageTitle == "Settings") { ?> class="active" <?php }?>>
             <a href="settings.php">Settings</a>

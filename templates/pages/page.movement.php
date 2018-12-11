@@ -70,7 +70,7 @@
             <td >Moisture</td>
             <td ><?php echo $movement->Moist; ?> %</td>
             <td ><?php echo $movement->DryLoss; ?></td>
-            <td >£<?php echo $movement->DryCharge; ?></td>
+            <td >£<?php echo $movement->DryCharge * $movement->Gross_MT; ?></td>
           </tr>
           <tr>
             <td >Screenings</td>
@@ -79,14 +79,14 @@
             <td ></td>
           </tr>
           <tr>
-            <td >Specific Weight</td>
-            <td ><?php echo $movement->Kghl; ?> Kg/Hl</td>
-            <td ></td>
+            <td >Admix</td>
+            <td ><?php echo $movement->Admix; ?> %</td>
+            <td ><?php echo $movement->CleanLoss ?></td>
             <td ></td>
           </tr>
           <tr>
-            <td >Admix</td>
-            <td ><?php echo $movement->Admix; ?> %</td>
+            <td >Specific Weight</td>
+            <td ><?php echo $movement->Kghl; ?> Kg/Hl</td>
             <td ></td>
             <td ></td>
           </tr>

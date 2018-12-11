@@ -4,7 +4,7 @@
   <div class="login-container">
     <div class="row">
       <div class="col-md login-sec">
-        <h2 class="text-center">Login Now</h2>
+        <h2>Login Now</h2>
         <form class="login-form" method="POST" action="/login.php">
           <div class="form-group" >
             <label for="exampleInputEmail1" class="text-uppercase">Email</label>
@@ -18,7 +18,7 @@
 
 
           <div class="form-check">
-            <button type="submit" class="btn btn-login float-right">Submit</button>
+            <button type="submit" class="btn btn-login">Login</button>
           </div>
           <p><?php if(isset($error)) {echo $error;} ?></p>
 

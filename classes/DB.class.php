@@ -1,16 +1,16 @@
 <?php
 class DB {
-        // public static $host = "46.32.240.41";
-        // public static $dbName = "black-ofv-u-215864";
-        // public static $username = "black-ofv-u-215864";
-        // public static $password = "2/TUyz.ET";
-        // public static $port = "3306";
-
-        public static $host = "localhost";
-        public static $dbName = "trinity";
-        public static $username = "root";
-        public static $password = "password";
+        public static $host = "46.32.240.41";
+        public static $dbName = "black-ofv-u-215864";
+        public static $username = "black-ofv-u-215864";
+        public static $password = "2/TUyz.ET";
         public static $port = "3306";
+
+        // public static $host = "localhost";
+        // public static $dbName = "trinity";
+        // public static $username = "root";
+        // public static $password = "password";
+        // public static $port = "3306";
 
 
         public static function connect() {

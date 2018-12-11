@@ -126,13 +126,24 @@ a.article:hover {
     CONTENT STYLE
 ----------------------------------------------------- */
 #main-container {
-  width: calc(100% - 250px);
+  width: 100%;
   padding: 0px;
   min-height: 100vh;
   transition: all 0.3s;
-  position: absolute;
-  top: 0;
-  right: 0;
+
+}
+
+.table{
+  overflow-x: scroll !important;
+}
+
+@media (min-width: 1200px) {
+  #main-container {
+    width: calc(100% - 250px);
+    position: absolute;
+    top: 0;
+    right: 0;
+  }
 }
 
 #content {
@@ -220,8 +231,6 @@ a.article:hover {
   display: block;
   margin-top: 20px;
   border-radius: 3px;
-  margin-left: auto;
-  margin-right: auto;
 }
 
 .btn-login {
@@ -5600,8 +5609,27 @@ a:focus {
   -webkit-transition: all 0.2s ease;
   -o-transition: all 0.2s ease;
   transition: all 0.2s ease;
-  width: calc(100% - 250px);
+  width: 100%;
   z-index: 800;
+  background-color: #2c3e50 !important;
+
+}
+
+.topbar a, .topbar button, .topbar span{
+  color: #fff !important;
+}
+
+@media (min-width: 1200px) {
+  .topbar {
+  width: calc(100% - 250px);
+  background-color: #f8f9fa!important;
+
+}
+.topbar a, .topbar button, .topbar span{
+  color: rgba(0,0,0,.5) !important;
+}
+
+
 }
 
 .clearfix {
